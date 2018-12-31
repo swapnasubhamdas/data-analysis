@@ -1,0 +1,1001 @@
+Rank,Company_Name,Revenues_In_Million,Profits_In_Million,Employees,Sector,Industry
+1,Walmart,"$500,343 ","$9,862.00 ","2,300,000",Retailing,General Merchandisers
+2,Exxon Mobil,"$244,363 ","$19,710.00 ","71,200",Energy,Petroleum Refining
+3,Berkshire Hathaway,"$242,137 ","$44,940.00 ","377,000",Financials,Insurance: Property and Casualty (Stock)
+4,Apple,"$229,234 ","$48,351.00 ","123,000",Technology,"Computers, Office Equipment"
+5,UnitedHealth Group,"$201,159 ","$10,558.00 ","260,000",Health Care,Health Care: Insurance and Managed Care
+6,McKesson,"$198,533 ","$5,070.00 ","64,500",Wholesalers,Wholesalers: Health Care
+7,CVS Health,"$184,765 ","$6,622.00 ","203,000",Health Care,Health Care: Pharmacy and Other Services
+8,Amazon.com,"$177,866 ","$3,033.00 ","566,000",Retailing,Internet Services and Retailing
+9,AT&T,"$160,546 ","$29,450.00 ","254,000",Telecommunications,Telecommunications
+10,General Motors,"$157,311 ","($3,864.00)","180,000",Motor Vehicles &  Parts,Motor Vehicles and Parts
+11,Ford Motor,"$156,776 ","$7,602.00 ","202,000",Motor Vehicles &  Parts,Motor Vehicles and Parts
+12,AmerisourceBergen,"$153,144 ",$364.50 ,"19,500",Wholesalers,Wholesalers: Health Care
+13,Chevron,"$134,533 ","$9,195.00 ","51,900",Energy,Petroleum Refining
+14,Cardinal Health,"$129,976 ","$1,288.00 ","40,400",Wholesalers,Wholesalers: Health Care
+15,Costco,"$129,025 ","$2,679.00 ","182,000",Retailing,General Merchandisers
+16,Verizon,"$126,034 ","$30,101.00 ","155,400",Telecommunications,Telecommunications
+17,Kroger,"$122,662 ","$1,907.00 ","449,000",Food &  Drug Stores,Food and Drug Stores
+18,General Electric,"$122,274 ","($5,786.00)","313,000",Industrials,Industrial Machinery
+19,Walgreens Boots Alliance,"$118,214 ","$4,078.00 ","290,000",Food &  Drug Stores,Food and Drug Stores
+20,JPMorgan Chase,"$113,899 ","$24,441.00 ","252,539",Financials,Commercial Banks
+21,Fannie Mae,"$112,394 ","$2,463.00 ","7,200",Financials,Diversified Financials
+22,Alphabet,"$110,855 ","$12,662.00 ","80,110",Technology,Internet Services and Retailing
+23,Home Depot,"$100,904 ","$8,630.00 ","413,000",Retailing,Specialty Retailers: Other
+24,Bank of America Corp.,"$100,264 ","$18,232.00 ","209,376",Financials,Commercial Banks
+25,Express Scripts Holding,"$100,065 ","$4,517.40 ","26,600",Health Care,Health Care: Pharmacy and Other Services
+26,Wells Fargo,"$97,741 ","$22,183.00 ","262,700",Financials,Commercial Banks
+27,Boeing,"$93,392 ","$8,197.00 ","140,800",Aerospace &  Defense,Aerospace and Defense
+28,Phillips 66,"$91,568 ","$5,106.00 ","14,600",Energy,Petroleum Refining
+29,Anthem,"$90,040 ","$3,842.80 ","56,000",Health Care,Health Care: Insurance and Managed Care
+30,Microsoft,"$89,950 ","$21,204.00 ","124,000",Technology,Computer Software
+31,Valero Energy,"$88,407 ","$4,065.00 ","10,015",Energy,Petroleum Refining
+32,Citigroup,"$87,966 ","($6,798.00)","209,000",Financials,Commercial Banks
+33,Comcast,"$84,526 ","$22,714.00 ","164,000",Telecommunications,Telecommunications
+34,IBM,"$79,139 ","$5,753.00 ","397,800",Technology,Information Technology Services
+35,Dell Technologies,"$78,660 ","($3,728.00)","145,000",Technology,"Computers, Office Equipment"
+36,State Farm Insurance Cos.,"$78,331 ","$2,206.50 ","65,664",Financials,Insurance: Property and Casualty (Mutual)
+37,Johnson & Johnson,"$76,450 ","$1,300.00 ","134,000",Health Care,Pharmaceuticals
+38,Freddie Mac,"$74,676 ","$5,625.00 ","6,165",Financials,Diversified Financials
+39,Target,"$71,879 ","$2,934.00 ","345,000",Retailing,General Merchandisers
+40,Lowes,"$68,619 ","$3,447.00 ","255,000",Retailing,Specialty Retailers: Other
+41,Marathon Petroleum,"$67,610 ","$3,432.00 ","43,800",Energy,Petroleum Refining
+42,Procter & Gamble,"$66,217 ","$15,326.00 ","95,000",Household Products,Household and Personal Products
+43,MetLife,"$66,153 ","$4,010.00 ","49,000",Financials,"Insurance: Life, Health (stock)"
+44,UPS,"$65,872 ","$4,910.00 ","346,415",Transportation,"Mail, Package, and Freight Delivery"
+45,PepsiCo,"$63,525 ","$4,857.00 ","263,000","Food, Beverages &  Tobacco",Food Consumer Products
+46,Intel,"$62,761 ","$9,601.00 ","102,700",Technology,Semiconductors and Other Electronic Components
+47,DowDuPont,"$62,683 ","$1,460.00 ",98000,Chemicals,Chemicals
+48,Archer Daniels Midland,"$60,828 ","$1,595.00 ","31,300","Food, Beverages &  Tobacco",Food Production
+49,Aetna,"$60,535 ","$1,904.00 ","47,950",Health Care,Health Care: Insurance and Managed Care
+50,FedEx,"$60,319 ","$2,997.00 ","357,000",Transportation,"Mail, Package, and Freight Delivery"
+51,United Technologies,"$59,837 ","$4,552.00 ","204,700",Aerospace &  Defense,Aerospace and Defense
+52,Prudential Financial,"$59,689 ","$7,863.00 ","49,705",Financials,"Insurance: Life, Health (stock)"
+53,Albertsons Cos.,"$59,678 ",($373.30),"273,000",Food &  Drug Stores,Food and Drug Stores
+54,Sysco,"$55,371 ","$1,142.50 ","66,500",Wholesalers,Wholesalers: Food and Grocery
+55,Disney,"$55,137 ","$8,980.00 ","199,000",Media,Entertainment
+56,Humana,"$53,767 ","$2,448.00 ","45,900",Health Care,Health Care: Insurance and Managed Care
+57,Pfizer,"$52,546 ","$21,308.00 ","90,200",Health Care,Pharmaceuticals
+58,HP,"$52,056 ","$2,526.00 ","49,000",Technology,"Computers, Office Equipment"
+59,Lockheed Martin,"$51,048 ","$2,002.00 ","100,000",Aerospace &  Defense,Aerospace and Defense
+60,AIG,"$49,520 ","($6,084.00)","49,800",Financials,Insurance: Property and Casualty (Stock)
+61,Centene,"$48,572 ",$828.00 ,"33,700",Health Care,Health Care: Insurance and Managed Care
+62,Cisco Systems,"$48,005 ","$9,609.00 ","72,900",Technology,Network and Other Communications Equipment
+63,HCA Healthcare,"$47,653 ","$2,216.00 ",221491,Health Care,Health Care: Medical Facilities
+64,Energy Transfer Equity,"$47,487 ",$954.00 ,"29,486",Energy,Pipelines
+65,Caterpillar,"$45,462 ",$754.00 ,"98,400",Industrials,Construction and Farm Machinery
+66,Nationwide,"$43,940 ",$246.50 ,"33,135",Financials,Insurance: Property and Casualty (Mutual)
+67,Morgan Stanley,"$43,642 ","$6,111.00 ","57,633",Financials,Commercial Banks
+68,Liberty Mutual Insurance Group,"$42,687 ",$17.00 ,"50,000",Financials,Insurance: Property and Casualty (Stock)
+69,New York Life Insurance,"$42,296 ","$1,866.90 ","11,114",Financials,"Insurance: Life, Health (Mutual)"
+70,Goldman Sachs Group,"$42,254 ","$4,286.00 ","36,600",Financials,Commercial Banks
+71,American Airlines Group,"$42,207 ","$1,919.00 ","126,600",Transportation,Airlines
+72,Best Buy,"$42,151 ","$1,000.00 ","125,000",Retailing,Specialty Retailers: Other
+73,Cigna,"$41,616 ","$2,237.00 ","46,000",Health Care,Health Care: Insurance and Managed Care
+74,Charter Communications,"$41,581 ","$9,895.00 ","94,800",Telecommunications,Telecommunications
+75,Delta Air Lines,"$41,244 ","$3,577.00 ","86,564",Transportation,Airlines
+76,Facebook,"$40,653 ","$15,934.00 ","25,105",Technology,Internet Services and Retailing
+77,Honeywell International,"$40,534 ","$1,655.00 ","131,000",Industrials,"Electronics, Electrical Equip."
+78,Merck,"$40,122 ","$2,394.00 ","69,000",Health Care,Pharmaceuticals
+79,Allstate,"$38,524 ","$3,189.00 ","42,680",Financials,Insurance: Property and Casualty (Stock)
+80,Tyson Foods,"$38,260 ","$1,774.00 ","122,000","Food, Beverages &  Tobacco",Food Production
+81,United Continental Holdings,"$37,736 ","$2,131.00 ","89,800",Transportation,Airlines
+82,Oracle,"$37,728 ","$9,335.00 ","138,000",Technology,Computer Software
+83,Tech Data,"$36,775 ",$116.60 ,"14,000",Wholesalers,Wholesalers: Electronics and Office Equipment
+84,TIAA,"$36,025 ","$1,049.70 ","16,829",Financials,"Insurance: Life, Health (Mutual)"
+85,TJX,"$35,865 ","$2,607.90 ","249,000",Retailing,Specialty Retailers: Apparel
+86,American Express,"$35,583 ","$2,736.00 ","55,000",Financials,Diversified Financials
+87,Coca-Cola,"$35,410 ","$1,248.00 ","61,800","Food, Beverages &  Tobacco",Beverages
+88,Publix Super Markets,"$34,837 ","$2,291.90 ","193,000",Food &  Drug Stores,Food and Drug Stores
+89,Nike,"$34,350 ","$4,240.00 ","74,400",Apparel,Apparel
+90,Andeavor,"$34,204 ","$1,528 ",14300,Energy,Petroleum Refining
+91,World Fuel Services,"$33,696 ",($170.20),"5,000",Energy,Energy
+92,Exelon,"$33,531 ","$3,770.00 ","34,621",Energy,Utilities: Gas and Electric
+93,Massachusetts Mutual Life Insurance,"$33,495 ",$513.00 ,"11,811",Financials,"Insurance: Life, Health (Mutual)"
+94,Rite Aid,"$32,845 ",$4.10 ,"70,430",Food &  Drug Stores,Food and Drug Stores
+95,ConocoPhillips,"$32,584 ",($855.00),"11,400",Energy,"Mining, Crude-Oil Production"
+96,CHS,"$31,935 ",$127.90 ,"11,626","Food, Beverages &  Tobacco",Food Production
+97,3M,"$31,657 ","$4,858.00 ","91,536",Industrials,Miscellaneous
+98,Time Warner,"$31,271 ","$5,247.00 ","26,000",Media,Entertainment
+99,General Dynamics,"$30,973 ","$2,912.00 ","98,600",Aerospace &  Defense,Aerospace and Defense
+100,USAA,"$30,016 ","$2,421.90 ","32,705",Financials,Insurance: Property and Casualty (Stock)
+101,Capital One Financial,"$29,999 ","$1,982.00 ","49,300",Financials,Commercial Banks
+102,Deere,"$29,738 ","$2,159.10 ","60,476",Industrials,Construction and Farm Machinery
+103,INTL FCStone,"$29,424 ",$6.40 ,"1,607",Financials,Diversified Financials
+104,Northwestern Mutual,"$29,331 ","$1,017.00 ","5,437",Financials,"Insurance: Life, Health (Mutual)"
+105,Enterprise Products Partners,"$29,242 ","$2,799.30 ","7,000",Energy,Pipelines
+106,Travelers Cos.,"$28,902 ","$2,056.00 ","30,800",Financials,Insurance: Property and Casualty (Stock)
+107,Hewlett Packard Enterprise,"$28,871 ",$344.00 ,"66,000",Technology,"Computers, Office Equipment"
+108,Philip Morris International,"$28,748 ","$6,035.00 ","80,600","Food, Beverages &  Tobacco",Tobacco
+109,Twenty-First Century Fox,"$28,500 ","$2,952.00 ","21,700",Media,Entertainment
+110,AbbVie,"$28,216 ","$5,309.00 ","29,000",Health Care,Pharmaceuticals
+111,Abbott Laboratories,"$27,390 ",$477.00 ,"99,000",Health Care,Medical Products and Equipment
+112,Progressive,"$26,839 ","$1,592.20 ","33,656",Financials,Insurance: Property and Casualty (Stock)
+113,Arrow Electronics,"$26,813 ",$402.00 ,"18,800",Wholesalers,Wholesalers: Electronics and Office Equipment
+114,Kraft Heinz,"$26,232 ","$10,999.00 ","39,000","Food, Beverages &  Tobacco",Food Consumer Products
+115,Plains GP Holdings,"$26,223 ",($731.00),"4,850",Energy,Pipelines
+116,Gilead Sciences,"$26,107 ","$4,628.00 ","10,000",Health Care,Pharmaceuticals
+117,Mondelez International,"$25,896 ","$2,922.00 ","83,000","Food, Beverages &  Tobacco",Food Consumer Products
+118,Northrop Grumman,"$25,803 ","$2,015.00 ","70,000",Aerospace &  Defense,Aerospace and Defense
+119,Raytheon,"$25,348 ","$2,024.00 ","64,000",Aerospace &  Defense,Aerospace and Defense
+120,Macys,"$24,837 ","$1,547.00 ","130,000",Retailing,General Merchandisers
+121,US Foods Holding,"$24,147 ",$444.30 ,"25,204",Wholesalers,Wholesalers: Food and Grocery
+122,U.S. Bancorp,"$23,996 ","$6,218.00 ","72,402",Financials,Commercial Banks
+123,Dollar General,"$23,471 ","$1,539.00 ","129,000",Retailing,Specialty Retailers: Other
+124,International Paper,"$23,302 ","$2,144.00 ","56,000",Materials,"Packaging, Containers"
+125,Duke Energy,"$23,189 ","$3,059.00 ","29,060",Energy,Utilities: Gas and Electric
+126,Southern,"$23,031 ",$842.00 ,"31,344",Energy,Utilities: Gas and Electric
+127,Marriott International,"$22,894 ","$1,372.00 ","177,000","Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts"
+128,Avnet,"$22,872 ",$525.30 ,"15,700",Wholesalers,Wholesalers: Electronics and Office Equipment
+129,Eli Lilly,"$22,871 ",($204.10),"40,655",Health Care,Pharmaceuticals
+130,Amgen,"$22,849 ","$1,979.00 ","20,800",Health Care,Pharmaceuticals
+131,McDonalds,"$22,820 ","$5,192.30 ","235,000","Hotels, Restaurants &  Leisure",Food Services
+132,Starbucks,"$22,387 ","$2,884.70 ","277,000","Hotels, Restaurants &  Leisure",Food Services
+133,Qualcomm,"$22,291 ","$2,466.00 ","33,800",Technology,Semiconductors and Other Electronic Components
+134,Dollar Tree,"$22,246 ","$1,714.30 ","116,200",Retailing,Specialty Retailers: Other
+135,PBF Energy,"$21,787 ",$415.50 ,"3,165",Energy,Petroleum Refining
+136,Icahn Enterprises,"$21,744 ","$2,430.00 ","89,034",Financials,Diversified Financials
+137,Aflac,"$21,667 ","$4,604.00 ","11,318",Financials,"Insurance: Life, Health (stock)"
+138,AutoNation,"$21,535 ",$434.60 ,"26,000",Retailing,"Automotive Retailing, Services"
+139,Penske Automotive Group,"$21,389 ",$613.30 ,"26,000",Retailing,"Automotive Retailing, Services"
+140,Whirlpool,"$21,253 ",$350.00 ,"92,000",Industrials,"Electronics, Electrical Equip."
+141,Union Pacific,"$21,240 ","$10,712.00 ","41,992",Transportation,Railroads
+142,Southwest Airlines,"$21,171 ","$3,488.00 ","56,110",Transportation,Airlines
+143,ManpowerGroup,"$21,034 ",$545.40 ,"29,000",Business Services,Temporary Help
+144,Thermo Fisher Scientific,"$20,918 ","$2,225.00 ","66,100",Technology,"Scientific,Photographic and  Control Equipment"
+145,Bristol-Myers Squibb,"$20,776 ","$1,007.00 ","23,700",Health Care,Pharmaceuticals
+146,Halliburton,"$20,620 ",($463.00),"55,000",Energy,"Oil and Gas Equipment, Services"
+147,Tenet Healthcare,"$20,613 ",($704.00),"111,980",Health Care,Health Care: Medical Facilities
+148,Lear,"$20,467 ","$1,313.40 ","165,000",Motor Vehicles &  Parts,Motor Vehicles and Parts
+149,Cummins,"$20,428 ",$999.00 ,"58,600",Industrials,Industrial Machinery
+150,Micron Technology,"$20,322 ","$5,089.00 ","34,100",Technology,Semiconductors and Other Electronic Components
+151,Nucor,"$20,252 ","$1,318.70 ","25,100",Materials,Metals
+152,Molina Healthcare,"$19,883 ",($512.00),"20,000",Health Care,Health Care: Insurance and Managed Care
+153,Fluor,"$19,521 ",$191.40 ,"56,706",Engineering &  Construction,"Engineering, Construction"
+154,Altria Group,"$19,494 ","$10,222.00 ","8,300","Food, Beverages &  Tobacco",Tobacco
+155,Paccar,"$19,456 ","$1,675.20 ","25,000",Industrials,Construction and Farm Machinery
+156,Hartford Financial Services,"$19,228 ","($3,131.00)","16,400",Financials,Insurance: Property and Casualty (Stock)
+157,Kohls,"$19,095 ",$859.00 ,"85,000",Retailing,General Merchandisers
+158,Western Digital,"$19,093 ",$397.00 ,"67,629",Technology,"Computers, Office Equipment"
+159,Jabil,"$19,063.10 ",$129.10 ,170000,Technology,Semiconductors and Other Electronic Components
+160,Community Health Systems,"$18,477 ","($2,459.00)","86,000",Health Care,Health Care: Medical Facilities
+161,Visa,"$18,358 ","$6,699.00 ","15,000",Business Services,Financial Data Services
+162,Danaher,"$18,330 ","$2,492.10 ","67,000",Health Care,Medical Products and Equipment
+163,Kimberly-Clark,"$18,259 ","$2,278.00 ","42,000",Household Products,Household and Personal Products
+164,AECOM,"$18,203 ",$339.40 ,"87,000",Engineering &  Construction,"Engineering, Construction"
+165,PNC Financial Services,"$18,035 ","$5,338.00 ","51,632",Financials,Commercial Banks
+166,CenturyLink,"$17,656 ","$1,389.00 ","51,000",Telecommunications,Telecommunications
+167,NextEra Energy,"$17,195 ","$5,378.00 ","14,000",Energy,Utilities: Gas and Electric
+168,PG& E Corp.,"$17,135 ","$1,646.00 ","23,000",Energy,Utilities: Gas and Electric
+169,Synnex,"$17,046 ",$301.20 ,"113,600",Wholesalers,Wholesalers: Electronics and Office Equipment
+170,WellCare Health Plans,"$17,007 ",$373.70 ,"8,900",Health Care,Health Care: Insurance and Managed Care
+171,Performance Food Group,"$16,762 ",$96.30 ,"14,000",Wholesalers,Wholesalers: Food and Grocery
+172,Sears Holdings,"$16,702 ",($383.00),"89,000",Retailing,General Merchandisers
+173,Synchrony Financial,"$16,695 ","$1,935.00 ","16,000",Financials,Diversified Financials
+174,CarMax,"$16,637 ",$627.00 ,"24,344",Retailing,"Automotive Retailing, Services"
+175,Bank of New York Mellon,"$16,621 ","$4,090.00 ",52500,Financials,Commercial Banks
+176,Freeport-McMoRan,"$16,416 ","$1,817.00 ","25,200",Energy,"Mining, Crude-Oil Production"
+177,Genuine Parts,"$16,309 ",$616.80 ,"48,000",Wholesalers,Wholesalers: Diversified
+178,Emerson Electric,"$16,301 ","$1,518.00 ","76,500",Industrials,Industrial Machinery
+179,DaVita,"$16,038 ",$663.60 ,"74,500",Health Care,Health Care: Medical Facilities
+180,Supervalu,"$16,009 ",$650.00 ,"29,000",Food &  Drug Stores,Food and Drug Stores
+181,Gap,"$15,855 ",$848.00 ,"135,000",Retailing,Specialty Retailers: Apparel
+182,General Mills,"$15,620 ","$1,657.50 ","38,000","Food, Beverages &  Tobacco",Food Consumer Products
+183,Nordstrom,"$15,478 ",$437.00 ,"76,000",Retailing,General Merchandisers
+184,Colgate-Palmolive,"$15,454 ","$2,024.00 ","35,900",Household Products,Household and Personal Products
+185,American Electric Power,"$15,425 ","$1,912.60 ","17,666",Energy,Utilities: Gas and Electric
+186,XPO Logistics,"$15,381 ",$340.20 ,"95,000",Transportation,Transportation and Logistics
+187,Goodyear Tire & Rubber,"$15,377 ",$346.00 ,"64,000",Motor Vehicles &  Parts,Motor Vehicles and Parts
+188,Omnicom Group,"$15,274 ","$1,088.40 ","77,300",Business Services,"Advertising, marketing"
+189,CDW,"$15,192 ",$523.00 ,"8,726",Technology,Information Technology Services
+190,Sherwin-Williams,"$14,984 ","$1,772.30 ","52,695",Chemicals,Chemicals
+191,PPG Industries,"$14,967 ","$1,591.00 ","47,200",Chemicals,Chemicals
+192,Texas Instruments,"$14,961 ","$3,682.00 ","29,714",Technology,Semiconductors and Other Electronic Components
+193,C.H. Robinson Worldwide,"$14,869 ",$504.90 ,"15,074",Transportation,Transportation and Logistics
+194,WestRock,"$14,860 ",$708.20 ,"44,800",Materials,"Packaging, Containers"
+195,Cognizant Technology Solutions,"$14,810 ","$1,504.00 ","260,000",Technology,Information Technology Services
+196,Newell Brands,"$14,742 ","$2,748.80 ","49,000",Household Products,"Home Equipment, Furnishings"
+197,CBS,"$14,710 ",$357.00 ,"14,715",Media,Entertainment
+198,Envision Healthcare,"$14,701 ",($228.00),"57,750",Health Care,Health Care: Pharmacy and Other Services
+199,Monsanto,"$14,640 ","$2,260.00 ","21,900",Chemicals,Chemicals
+200,Aramark,"$14,604 ",$373.90 ,"215,000",Business Services,Diversified Outsourcing Services
+201,Applied Materials,"$14,537 ","$3,434.00 ","18,400",Technology,Semiconductors and Other Electronic Components
+202,Waste Management,"$14,485 ","$1,949.00 ","42,300",Business Services,Waste Management
+203,DISH Network,"$14,391 ","$2,098.70 ","17,000",Telecommunications,Telecommunications
+204,Illinois Tool Works,"$14,314 ","$1,687.00 ","50,000",Industrials,Industrial Machinery
+205,Lincoln National,"$14,257 ","$2,079.00 ","9,047",Financials,"Insurance: Life, Health (stock)"
+206,HollyFrontier,"$14,251 ",$805.40 ,"3,522",Energy,Petroleum Refining
+207,CBRE Group,"$14,210 ",$691.50 ,"80,000",Financials,Real estate
+208,Textron,"$14,198 ",$307.00 ,"37,000",Aerospace &  Defense,Aerospace and Defense
+209,Ross Stores,"$14,135 ","$1,362.80 ","82,700",Retailing,Specialty Retailers: Apparel
+210,Principal Financial,"$14,093 ","$2,310.40 ","15,378",Financials,"Insurance: Life, Health (stock)"
+211,D.R. Horton,"$14,091 ","$1,038.40 ","7,735",Engineering &  Construction,Homebuilders
+212,Marsh & McLennan,"$14,024 ","$1,492.00 ","64,000",Financials,Diversified Financials
+213,Devon Energy,"$13,949 ",$898.00 ,"3,414",Energy,"Mining, Crude-Oil Production"
+214,AES,"$13,850 ","($1,161.00)","10,500",Energy,Utilities: Gas and Electric
+215,Ecolab,"$13,838 ","$1,508.40 ","48,400",Chemicals,Chemicals
+216,Land O'Lakes,"$13,740 ",$314.20 ,"10,000","Food, Beverages &  Tobacco",Food Consumer Products
+217,Loews,"$13,735 ","$1,164.00 ","18,100",Financials,Insurance: Property and Casualty (Stock)
+218,Kinder Morgan,"$13,705 ",$183.00 ,"10,897",Energy,Pipelines
+219,FirstEnergy,"$13,627 ","($1,724.00)","15,617",Energy,Utilities: Gas and Electric
+220,Occidental Petroleum,"$13,274 ","$1,311.00 ","11,000",Energy,"Mining, Crude-Oil Production"
+221,Viacom,"$13,263 ","$1,874.00 ","11,200",Media,Entertainment
+222,PayPal Holdings,"$13,094 ","$1,795.00 ","18,700",Business Services,Financial Data Services
+223,NGL Energy Partners,"$13,022 ",$137.00 ,"2,700",Energy,Energy
+224,Celgene,"$13,003 ","$2,940.00 ","7,467",Health Care,Pharmaceuticals
+225,Arconic,"$12,960 ",($74.00),"41,500",Aerospace &  Defense,Aerospace and Defense
+226,Kellogg,"$12,923 ","$1,269.00 ","32,944","Food, Beverages &  Tobacco",Food Consumer Products
+227,Las Vegas Sands,"$12,882 ","$2,806.00 ","50,500","Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts"
+228,Stanley Black & Decker,"$12,747 ","$1,226.00 ","57,765",Household Products,"Home Equipment, Furnishings"
+229,Booking Holdings,"$12,681 ","$2,340.80 ","22,900",Technology,Internet Services and Retailing
+230,Lennar,"$12,646 ",$810.50 ,"9,111",Engineering &  Construction,Homebuilders
+231,L Brands,"$12,632 ",$983.00 ,"59,200",Retailing,Specialty Retailers: Apparel
+232,DTE Energy,"$12,607 ","$1,134.00 ","10,200",Energy,Utilities: Gas and Electric
+233,Dominion Energy,"$12,586 ","$2,999.00 ",16200,Energy,Utilities: Gas and Electric
+234,Reinsurance Group of America,"$12,516 ","$1,822.20 ","2,640",Financials,"Insurance: Life, Health (stock)"
+235,J.C. Penney,"$12,506 ",($116.00),"98,000",Retailing,General Merchandisers
+236,Mastercard,"$12,497 ","$3,915.00 ","13,400",Business Services,Financial Data Services
+237,BlackRock,"$12,491 ","$4,970.00 ","13,900",Financials,Securities
+238,Henry Schein,"$12,462 ",$406.30 ,"22,000",Wholesalers,Wholesalers: Health Care
+239,Guardian Life Ins. Co. of America,"$12,455 ",$455.30 ,"9,283",Financials,"Insurance: Life, Health (Mutual)"
+240,Stryker,"$12,444 ","$1,020.00 ","33,000",Health Care,Medical Products and Equipment
+241,Jefferies Financial Group,"$12,408 ",$171.70 ,"12,700",Financials,Diversified Financials
+242,VF,"$12,400 ",$614.90 ,"69,000",Apparel,Apparel
+243,ADP,"$12,380 ","$1,733.40 ","58,000",Business Services,Diversified Outsourcing Services
+244,Edison International,"$12,320 ",$565.00 ,"12,521",Energy,Utilities: Gas and Electric
+245,Biogen,"$12,274 ","$2,539.10 ","7,300",Health Care,Pharmaceuticals
+246,United States Steel,"$12,250 ",$387.00 ,"29,200",Materials,Metals
+247,Core-Mark Holding,"$12,225 ",$33.50 ,"8,413",Wholesalers,Wholesalers: Food and Grocery
+248,Bed Bath & Beyond,"$12,216 ",$685.10 ,"65,000",Retailing,Specialty Retailers: Other
+249,Oneok,"$12,174 ",$387.80 ,"2,470",Energy,Pipelines
+250,BB& T Corp.,"$12,156 ","$2,394.00 ","36,484",Financials,Commercial Banks
+251,Becton Dickinson,"$12,093 ","$1,100.00 ","41,933",Health Care,Medical Products and Equipment
+252,Ameriprise Financial,"$12,075 ","$1,480.00 ","13,312",Financials,Diversified Financials
+253,Farmers Insurance Exchange,"$12,072 ",($65.40),"13,015",Financials,Insurance: Property and Casualty (Mutual)
+254,First Data,"$12,052 ","$1,465.00 ","22,000",Business Services,Financial Data Services
+255,Consolidated Edison,"$12,033 ","$1,525.00 ","15,591",Energy,Utilities: Gas and Electric
+256,Parker-Hannifin,"$12,029 ",$983.40 ,"56,690",Industrials,Industrial Machinery
+257,Anadarko Petroleum,"$11,908 ",($456.00),"4,400",Energy,"Mining, Crude-Oil Production"
+258,Estee Lauder,"$11,824 ","$1,249.00 ","46,000",Household Products,Household and Personal Products
+259,State Street Corp.,"$11,774 ","$2,177.00 ","36,643",Financials,Commercial Banks
+260,Tesla,"$11,759 ","($1,961.40)","37,543",Motor Vehicles &  Parts,Motor Vehicles and Parts
+261,Netflix,"$11,693 ",$558.90 ,"5,100",Technology,Internet Services and Retailing
+262,Alcoa,"$11,652 ",$217.00 ,"14,600",Materials,Metals
+263,Discover Financial Services,"$11,545 ","$2,099.00 ","16,500",Financials,Commercial Banks
+264,Praxair,"$11,437 ","$1,247.00 ","26,461",Chemicals,Chemicals
+265,CSX,"$11,408 ","$5,471.00 ","24,006",Transportation,Railroads
+266,Xcel Energy,"$11,404 ","$1,148.00 ","11,105",Energy,Utilities: Gas and Electric
+267,Unum Group,"$11,287 ",$994.20 ,"9,400",Financials,"Insurance: Life, Health (stock)"
+268,Universal Health Services,"$11,279 ",$752.30 ,"72,300",Health Care,Health Care: Medical Facilities
+269,NRG Energy,"$11,275 ","($2,153.00)","5,940",Energy,Energy
+270,EOG Resources,"$11,208 ","$2,582.60 ","2,664",Energy,"Mining, Crude-Oil Production"
+271,Sempra Energy,"$11,207 ",$256.00 ,"16,046",Energy,Utilities: Gas and Electric
+272,Toys 'R' Us,"$11,146 ",($612.00),"65,000",Retailing,Specialty Retailers: Other
+273,Group 1 Automotive,"$11,124 ",$213.40 ,"14,108",Retailing,"Automotive Retailing, Services"
+274,Entergy,"$11,075 ",$411.60 ,"13,504",Energy,Utilities: Gas and Electric
+275,Molson Coors Brewing,"$11,003 ","$1,414.20 ","17,200","Food, Beverages &  Tobacco",Beverages
+276,L3 Technologies,"$11,002 ",$677.00 ,"38,000",Aerospace &  Defense,Aerospace and Defense
+277,Ball,"$10,983 ",$374.00 ,"18,300",Materials,"Packaging, Containers"
+278,AutoZone,"$10,889 ","$1,280.90 ","70,035",Retailing,Specialty Retailers: Other
+279,Murphy USA,"$10,853 ",$245.30 ,"6,900",Retailing,Specialty Retailers: Other
+280,MGM Resorts International,"$10,774 ","$1,960.30 ","68,500","Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts"
+281,Office Depot,"$10,752 ",$181.00 ,"45,000",Retailing,Specialty Retailers: Other
+282,Huntsman,"$10,592 ",$636.00 ,"10,000",Chemicals,Chemicals
+283,Baxter International,"$10,561 ",$717.00 ,"47,000",Health Care,Medical Products and Equipment
+284,Norfolk Southern,"$10,551 ","$5,404.00 ","27,110",Transportation,Railroads
+285,salesforce.com,"$10,480 ",$127.50 ,"29,000",Technology,Computer Software
+286,Laboratory Corp. of America,"$10,441 ","$1,268.20 ","60,000",Health Care,Health Care: Pharmacy and Other Services
+287,W.W. Grainger,"$10,425 ",$585.70 ,"25,050",Wholesalers,Wholesalers: Diversified
+288,Qurate Retail,"$10,404 ","$2,441.00 ","28,255",Retailing,Internet Services and Retailing
+289,Autoliv,"$10,383 ",$427.10 ,"67,352",Motor Vehicles &  Parts,Motor Vehicles and Parts
+290,Live Nation Entertainment,"$10,337 ",($6.00),"15,050",Media,Entertainment
+291,Xerox,"$10,265 ",$195.00 ,"36,100",Technology,"Computers, Office Equipment"
+292,Leidos Holdings,"$10,170 ",$366.00 ,"31,000",Technology,Information Technology Services
+293,Corning,"$10,116 ",($497.00),"46,200",Industrials,"Electronics, Electrical Equip."
+294,Lithia Motors,"$10,087 ",$245.20 ,"12,899",Retailing,"Automotive Retailing, Services"
+295,Expedia Group,"$10,060 ",$378.00 ,"22,615",Retailing,Internet Services and Retailing
+296,Republic Services,"$10,042 ","$1,278.40 ","35,000",Business Services,Waste Management
+297,Jacobs Engineering Group,"$10,023 ",$293.70 ,"49,750",Engineering &  Construction,"Engineering, Construction"
+298,Sonic Automotive,"$9,867 ",$93.00 ,"9,750",Retailing,"Automotive Retailing, Services"
+299,Ally Financial,"$9,866 ",$929.00 ,"7,900",Financials,Diversified Financials
+300,LKQ,"$9,848 ",$533.70 ,"43,000",Wholesalers,Wholesalers: Diversified
+301,BorgWarner,"$9,799 ",$439.90 ,"29,000",Motor Vehicles &  Parts,Motor Vehicles and Parts
+302,Fidelity National Financial,"$9,769 ",$771.00 ,"24,525",Financials,Insurance: Property and Casualty (Stock)
+303,SunTrust Banks,"$9,741 ","$2,273.00 ","23,785",Financials,Commercial Banks
+304,IQVIA Holdings,"$9,739 ","$1,309.00 ",55000,Health Care,Health Care: Pharmacy and Other Services
+305,Reliance Steel & Aluminum,"$9,721 ",$613.40 ,"14,900",Materials,Metals
+306,Nvidia,"$9,714 ","$3,047.00 ","11,528",Technology,Semiconductors and Other Electronic Components
+307,Voya Financial,"$9,660 ","($2,992.00)","6,300",Financials,Diversified Financials
+308,CenterPoint Energy,"$9,614 ","$1,792.00 ","7,977",Energy,Utilities: Gas and Electric
+309,eBay,"$9,567 ","($1,016.00)","14,100",Technology,Internet Services and Retailing
+310,Eastman Chemical,"$9,549 ","$1,384.00 ","14,000",Chemicals,Chemicals
+311,American Family Insurance Group,"$9,545 ",$155.60 ,"11,307",Financials,Insurance: Property and Casualty (Stock)
+312,Steel Dynamics,"$9,539 ",$812.70 ,"7,635",Materials,Metals
+313,Pacific Life,"$9,510 ","$1,365.00 ","3,578",Financials,"Insurance: Life, Health (stock)"
+314,Chesapeake Energy,"$9,496 ",$949.00 ,"3,200",Energy,"Mining, Crude-Oil Production"
+315,Mohawk Industries,"$9,491 ",$971.60 ,"38,800",Household Products,"Home Equipment, Furnishings"
+316,Quanta Services,"$9,467 ",$315.00 ,"32,800",Engineering &  Construction,"Engineering, Construction"
+317,Advance Auto Parts,"$9,374 ",$475.50 ,"55,500",Retailing,Specialty Retailers: Other
+318,Owens & Minor,"$9,318 ",$72.80 ,"8,600",Wholesalers,Wholesalers: Health Care
+319,United Natural Foods,"$9,275 ",$130.20 ,"9,700",Wholesalers,Wholesalers: Food and Grocery
+320,Tenneco,"$9,274 ",$207.00 ,"32,000",Motor Vehicles &  Parts,Motor Vehicles and Parts
+321,Conagra Brands,"$9,235 ",$639.30 ,"12,600","Food, Beverages &  Tobacco",Food Consumer Products
+322,GameStop,"$9,225 ",$34.70 ,"39,500",Retailing,Specialty Retailers: Other
+323,Hormel Foods,"$9,168 ",$846.70 ,"20,200","Food, Beverages &  Tobacco",Food Consumer Products
+324,Hilton Worldwide Holdings,"$9,140 ","$1,259.00 ","163,000","Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts"
+325,Frontier Communications,"$9,128 ","($1,804.00)","22,736",Telecommunications,Telecommunications
+326,Fidelity National Information Services,"$9,123 ","$1,319.00 ","53,000",Business Services,Financial Data Services
+327,Public Service Enterprise Group,"$9,084 ","$1,574.00 ","12,945",Energy,Utilities: Gas and Electric
+328,Boston Scientific,"$9,048 ",$104.00 ,"29,000",Health Care,Medical Products and Equipment
+329,OReilly Automotive,"$8,978 ","$1,133.80 ","60,365",Retailing,Specialty Retailers: Other
+330,Charles Schwab,"$8,960 ","$2,354.00 ","17,600",Financials,Securities
+331,Global Partners,"$8,921 ",$58.80 ,"2,000",Wholesalers,Wholesalers: Diversified
+332,PVH,"$8,915 ",$537.80 ,"28,050",Apparel,Apparel
+333,Avis Budget Group,"$8,848 ",$361.00 ,"26,300",Retailing,"Automotive Retailing, Services"
+334,Targa Resources,"$8,815 ",$54.00 ,"2,130",Energy,Pipelines
+335,Hertz Global Holdings,"$8,803 ",$327.00 ,"37,000",Retailing,"Automotive Retailing, Services"
+336,Calpine,"$8,752 ",($339.00),"2,290",Energy,Energy
+337,Mutual of Omaha Insurance,"$8,732 ",$862.60 ,"5,896",Financials,"Insurance: Life, Health (stock)"
+338,Crown Holdings,"$8,698 ",$323.00 ,"24,342",Materials,"Packaging, Containers"
+339,Peter Kiewit Sons,"$8,678 ",$371.00 ,"22,000",Engineering &  Construction,"Engineering, Construction"
+340,Dicks Sporting Goods,"$8,591 ",$323.40 ,"30,300",Retailing,Specialty Retailers: Other
+341,PulteGroup,"$8,573 ",$447.20 ,"4,810",Engineering &  Construction,Homebuilders
+342,Navistar International,"$8,570 ",$30.00 ,"11,400",Industrials,Construction and Farm Machinery
+343,Thrivent Financial for Lutherans,"$8,528 ",$558.40 ,"3,622",Financials,"Insurance: Life, Health (Mutual)"
+344,DCP Midstream,"$8,462 ",$229.00 ,"2,650",Energy,Pipelines
+345,Air Products & Chemicals,"$8,442 ","$3,000.40 ","15,150",Chemicals,Chemicals
+346,Veritiv,"$8,365 ",($13.30),"8,900",Wholesalers,Wholesalers: Diversified
+347,AGCO,"$8,307 ",$186.40 ,"20,462",Industrials,Construction and Farm Machinery
+348,Genworth Financial,"$8,295 ",$817.00 ,"3,500",Financials,"Insurance: Life, Health (stock)"
+349,Univar,"$8,254 ",$119.80 ,"8,600",Wholesalers,Wholesalers: Diversified
+350,News Corp.,"$8,139 ",($738.00),"26,000",Media,"Publishing, Printing"
+351,SpartanNash,"$8,128 ",($52.80),"11,950",Wholesalers,Wholesalers: Food and Grocery
+352,Westlake Chemical,"$8,041 ","$1,304.00 ","8,799",Chemicals,Chemicals
+353,Williams,"$8,031 ","$2,174.00 ","5,425",Energy,Energy
+354,Lam Research,"$8,014 ","$1,697.80 ","9,400",Technology,Semiconductors and Other Electronic Components
+355,Alaska Air Group,"$7,933 ","$1,034.00 ","23,156",Transportation,Airlines
+356,Jones Lang LaSalle,"$7,932 ",$254.20 ,"81,900",Financials,Real estate
+357,Anixter International,"$7,927 ",$109.00 ,"8,900",Wholesalers,Wholesalers: Electronics and Office Equipment
+358,Campbell Soup,"$7,890 ",$887.00 ,"18,000","Food, Beverages &  Tobacco",Food Consumer Products
+359,Interpublic Group,"$7,882 ",$579.00 ,"50,200",Business Services,"Advertising, marketing"
+360,Dover,"$7,830 ",$811.70 ,"29,000",Industrials,Industrial Machinery
+361,Zimmer Biomet Holdings,"$7,824 ","$1,813.80 ","18,200",Health Care,Medical Products and Equipment
+362,Dean Foods,"$7,795 ",$61.60 ,"16,000","Food, Beverages &  Tobacco",Food Consumer Products
+363,Foot Locker,"$7,782 ",$284.00 ,"32,175",Retailing,Specialty Retailers: Apparel
+364,Eversource Energy,"$7,752 ",$988.00 ,"8,084",Energy,Utilities: Gas and Electric
+365,Alliance Data Systems,"$7,719 ",$788.70 ,"20,000",Business Services,Financial Data Services
+366,Fifth Third Bancorp,"$7,713 ","$2,194.00 ","18,125",Financials,Commercial Banks
+367,Quest Diagnostics,"$7,709 ",$772.00 ,"45,000",Health Care,Health Care: Pharmacy and Other Services
+368,EMCOR Group,"$7,688 ",$227.20 ,"32,000",Engineering &  Construction,"Engineering, Construction"
+369,W.R. Berkley,"$7,685 ",$549.10 ,"7,722",Financials,Insurance: Property and Casualty (Stock)
+370,WESCO International,"$7,679 ",$163.50 ,"9,100",Wholesalers,Wholesalers: Diversified
+371,Coty,"$7,650 ",($422.20),"22,000",Household Products,Household and Personal Products
+372,WEC Energy Group,"$7,649 ","$1,203.70 ","8,129",Energy,Utilities: Gas and Electric
+373,Masco,"$7,644 ",$533.00 ,"26,000",Household Products,"Home Equipment, Furnishings"
+374,DXC Technology,"$7,607 ",($123.00),"60,000",Technology,Information Technology Services
+375,Auto-Owners Insurance,"$7,604 ",$645.70 ,"5,227",Financials,Insurance: Property and Casualty (Mutual)
+376,Jones Financial (Edward Jones),"$7,597 ",$872.00 ,45000,Financials,Securities
+377,Liberty Media,"$7,594 ","$1,354.00 ","4,393",Media,Entertainment
+378,Erie Insurance Group,"$7,535 ",$857.50 ,"5,260",Financials,Insurance: Property and Casualty (Mutual)
+379,Hershey,"$7,515 ",$783.00 ,"16,135","Food, Beverages &  Tobacco",Food Consumer Products
+380,PPL,"$7,447 ","$1,128.00 ","12,512",Energy,Utilities: Gas and Electric
+381,Huntington Ingalls Industries,"$7,441 ",$479.00 ,"38,000",Aerospace &  Defense,Aerospace and Defense
+382,Mosaic,"$7,409 ",($107.20),"8,500",Chemicals,Chemicals
+383,J.M. Smucker,"$7,392 ",$592.30 ,"7,140","Food, Beverages &  Tobacco",Food Consumer Products
+384,Delek US Holdings,"$7,350 ",$288.80 ,"3,941",Energy,Petroleum Refining
+385,Newmont Mining,"$7,348 ",($98.00),"12,569",Energy,"Mining, Crude-Oil Production"
+386,Constellation Brands,"$7,332 ","$1,535.10 ","8,700","Food, Beverages &  Tobacco",Beverages
+387,Ryder System,"$7,330 ",$790.60 ,"36,100",Transportation,"Trucking, Truck Leasing"
+388,National Oilwell Varco,"$7,304 ",($237.00),"31,605",Energy,"Oil and Gas Equipment, Services"
+389,Adobe Systems,"$7,302 ","$1,694.00 ","17,973",Technology,Computer Software
+390,LifePoint Health,"$7,263 ",$102.40 ,"42,000",Health Care,Health Care: Medical Facilities
+391,Tractor Supply,"$7,256 ",$422.60 ,"21,000",Retailing,Specialty Retailers: Other
+392,Thor Industries,"$7,247 ",$374.30 ,"17,800",Motor Vehicles &  Parts,Motor Vehicles and Parts
+393,Dana,"$7,209 ",$111.00 ,"30,100",Motor Vehicles &  Parts,Motor Vehicles and Parts
+394,Weyerhaeuser,"$7,196 ",$582.00 ,"9,300",Materials,Forest and Paper Products
+395,J.B. Hunt Transport Services,"$7,190 ",$686.30 ,"24,681",Transportation,"Trucking, Truck Leasing"
+396,Darden Restaurants,"$7,170 ",$479.10 ,"178,729","Hotels, Restaurants &  Leisure",Food Services
+397,Yum China Holdings,"$7,144 ",$403.00 ,"450,000","Hotels, Restaurants &  Leisure",Food Services
+398,Blackstone Group,"$7,119 ","$1,470.80 ","2,360",Financials,Diversified Financials
+399,Berry Global Group,"$7,095 ",$340.00 ,"23,000",Materials,"Packaging, Containers"
+400,Builders FirstSource,"$7,034 ",$38.80 ,"15,000",Materials,"Building Materials, Glass"
+401,Activision Blizzard,"$7,017 ",$273.00 ,"9,800",Technology,Entertainment
+402,JetBlue Airways,"$7,015 ","$1,147.00 ","17,424",Transportation,Airlines
+403,Amphenol,"$7,011 ",$650.50 ,"70,000",Technology,Network and Other Communications Equipment
+404,A-Mark Precious Metals,"$6,990 ",$7.10 ,126,Materials,Miscellaneous
+405,Spirit AeroSystems Holdings,"$6,983 ",$354.90 ,"15,500",Aerospace &  Defense,Aerospace and Defense
+406,R.R. Donnelley & Sons,"$6,940 ",($34.40),"42,700",Media,"Publishing, Printing"
+407,Harris,"$6,939 ",$553.00 ,"17,000",Aerospace &  Defense,Aerospace and Defense
+408,Expeditors Intl. of Washington,"$6,921 ",$489.30 ,"16,500",Transportation,Transportation and Logistics
+409,Discovery,"$6,873 ",($337.00),"7,000",Media,Entertainment
+410,Owens-Illinois,"$6,869 ",$180.00 ,"26,500",Materials,"Packaging, Containers"
+411,Sanmina,"$6,869 ",$138.80 ,"41,250",Technology,Semiconductors and Other Electronic Components
+412,KeyCorp,"$6,868 ","$1,296.00 ","18,415",Financials,Commercial Banks
+413,American Financial Group,"$6,865 ",$475.00 ,"7,600",Financials,Insurance: Property and Casualty (Stock)
+414,Oshkosh,"$6,830 ",$285.60 ,"14,000",Industrials,Construction and Farm Machinery
+415,Rockwell Collins,"$6,822 ",$705.00 ,"29,000",Aerospace &  Defense,Aerospace and Defense
+416,Kindred Healthcare,"$6,768 ",($698.40),"64,200",Health Care,Health Care: Medical Facilities
+417,Insight Enterprises,"$6,704 ",$90.70 ,"6,697",Technology,Information Technology Services
+418,Dr Pepper Snapple Group,"$6,690 ","$1,076.00 ","21,000","Food, Beverages &  Tobacco",Beverages
+419,American Tower,"$6,664 ","$1,238.90 ","4,752",Financials,Real estate
+420,Fortive,"$6,656 ","$1,044.50 ","26,000",Industrials,Industrial Machinery
+421,Ralph Lauren,"$6,653 ",($99.30),"18,250",Apparel,Apparel
+422,HRG Group,"$6,650 ",$106.00 ,"17,113",Household Products,Household and Personal Products
+423,Ascena Retail Group,"$6,650 ","($1,067.30)","40,000",Retailing,Specialty Retailers: Apparel
+424,United Rentals,"$6,641 ","$1,346.00 ","14,800",Business Services,Miscellaneous
+425,Caseys General Stores,"$6,641 ",$177.50 ,"25,463",Retailing,Specialty Retailers: Other
+426,Graybar Electric,"$6,631 ",$71.60 ,"8,500",Wholesalers,Wholesalers: Diversified
+427,Avery Dennison,"$6,614 ",$281.80 ,"30,000",Materials,"Packaging, Containers"
+428,MasTec,"$6,607 ",$347.20 ,"17,300",Engineering &  Construction,"Engineering, Construction"
+429,CMS Energy,"$6,583 ",$460.00 ,"7,887",Energy,Utilities: Gas and Electric
+430,HD Supply Holdings,"$6,534 ",$970.00 ,"11,000",Wholesalers,Wholesalers: Diversified
+431,Raymond James Financial,"$6,525 ",$636.20 ,"12,700",Financials,Securities
+432,NCR,"$6,516 ",$232.00 ,"34,000",Technology,"Computers, Office Equipment"
+433,Hanesbrands,"$6,478 ",$61.90 ,"67,200",Apparel,Apparel
+434,Asbury Automotive Group,"$6,457 ",$139.10 ,"8,000",Retailing,"Automotive Retailing, Services"
+435,Citizens Financial Group,"$6,454 ","$1,652.00 ","17,594",Financials,Commercial Banks
+436,Packaging Corp. of America,"$6,445 ",$668.60 ,"14,600",Materials,"Packaging, Containers"
+437,Alleghany,"$6,425 ",$90.10 ,"4,402",Financials,Insurance: Property and Casualty (Stock)
+438,Apache,"$6,423 ","$1,304.00 ","3,356",Energy,"Mining, Crude-Oil Production"
+439,Dillards,"$6,423 ",$221.30 ,"31,400",Retailing,General Merchandisers
+440,Assurant,"$6,415 ",$519.60 ,"14,175",Financials,Insurance: Property and Casualty (Stock)
+441,Franklin Resources,"$6,392 ","$1,696.70 ","9,386",Financials,Securities
+442,Owens Corning,"$6,384 ",$289.00 ,"17,000",Materials,"Building Materials, Glass"
+443,Motorola Solutions,"$6,380 ",($155.00),"15,000",Technology,Network and Other Communications Equipment
+444,NVR,"$6,322 ",$537.50 ,"5,200",Engineering &  Construction,Homebuilders
+445,Rockwell Automation,"$6,311 ",$825.70 ,"22,000",Industrials,"Electronics, Electrical Equip."
+446,TreeHouse Foods,"$6,307 ",($286.20),"13,489","Food, Beverages &  Tobacco",Food Consumer Products
+447,Wynn Resorts,"$6,306 ",$747.20 ,"25,200","Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts"
+448,Olin,"$6,268 ",$549.50 ,"6,400",Chemicals,Chemicals
+449,American Axle & Manufacturing,"$6,266 ",$337.10 ,"25,000",Motor Vehicles &  Parts,Motor Vehicles and Parts
+450,Old Republic International,"$6,263 ",$560.50 ,"8,700",Financials,Insurance: Property and Casualty (Stock)
+451,Chemours,"$6,183 ",$746.00 ,"7,000",Chemicals,Chemicals
+452,iHeartMedia,"$6,178 ",($704.40),"18,700",Media,Entertainment
+453,Ameren,"$6,177 ",$523.00 ,"8,615",Energy,Utilities: Gas and Electric
+454,Arthur J. Gallagher,"$6,160 ",$463.10 ,"26,783",Financials,Diversified Financials
+455,Celanese,"$6,140 ",$843.00 ,"7,592",Chemicals,Chemicals
+456,Sealed Air,"$6,131 ",$814.90 ,"15,000",Materials,"Packaging, Containers"
+457,UGI,"$6,121 ",$436.60 ,"13,000",Energy,Energy
+458,Realogy Holdings,"$6,114 ",$431.00 ,"11,800",Financials,Real estate
+459,Burlington Stores,"$6,110 ",$384.90 ,"40,000",Retailing,Specialty Retailers: Apparel
+460,Regions Financial,"$6,093 ","$1,263.00 ","21,714",Financials,Commercial Banks
+461,AK Steel Holding,"$6,081 ",$6.20 ,"9,200",Materials,Metals
+462,Securian Financial Group,"$6,067 ",$418.90 ,"5,000",Financials,"Insurance: Life, Health (stock)"
+463,S& P Global,"$6,063 ","$1,496.00 ","20,400",Business Services,Financial Data Services
+464,Markel,"$6,062 ",$395.30 ,"15,600",Financials,Insurance: Property and Casualty (Stock)
+465,TravelCenters of America,"$6,052 ",$9.30 ,"19,611",Retailing,Specialty Retailers: Other
+466,Conduent,"$6,022 ",$181.00 ,"90,000",Business Services,Diversified Outsourcing Services
+467,M& T Bank Corp.,"$6,019 ","$1,408.30 ","16,354",Financials,Commercial Banks
+468,Clorox,"$5,973 ",$701.00 ,"8,100",Household Products,Household and Personal Products
+469,AmTrust Financial Services,"$5,959 ",($348.90),"9,300",Financials,Insurance: Property and Casualty (Stock)
+470,KKR,"$5,930 ","$1,018.30 ","1,184",Financials,Securities
+471,Ulta Beauty,"$5,885 ",$555.20 ,"24,200",Retailing,Specialty Retailers: Other
+472,Yum Brands,"$5,878 ","$1,340.00 ","60,000","Hotels, Restaurants &  Leisure",Food Services
+473,Regeneron Pharmaceuticals,"$5,872 ","$1,198.50 ","6,200",Health Care,Pharmaceuticals
+474,Windstream Holdings,"$5,853 ","($2,116.60)","12,979",Telecommunications,Telecommunications
+475,Magellan Health,"$5,838 ",$110.20 ,"10,700",Health Care,Health Care: Insurance and Managed Care
+476,Western & Southern Financial,"$5,836 ",$310.40 ,"2,226",Financials,"Insurance: Life, Health (Mutual)"
+477,Intercontinental Exchange,"$5,834 ","$2,514.00 ","4,952",Financials,Securities
+478,Ingredion,"$5,832 ",$519.00 ,"11,000","Food, Beverages &  Tobacco",Food Production
+479,Wyndham Destinations,"$5,821 ",$871.00 ,"39,200","Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts"
+480,Toll Brothers,"$5,815 ",$535.50 ,"4,500",Engineering &  Construction,Homebuilders
+481,Seaboard,"$5,809 ",$247.00 ,"11,800","Food, Beverages &  Tobacco",Food Production
+482,Booz Allen Hamilton,"$5,804 ",$252.50 ,"23,300",Technology,Information Technology Services
+483,First American Financial,"$5,772 ",$423.00 ,"18,705",Financials,Insurance: Property and Casualty (Stock)
+484,Cincinnati Financial,"$5,732 ","$1,045.00 ","4,925",Financials,Insurance: Property and Casualty (Stock)
+485,Avon Products,"$5,716 ",$22.00 ,"25,000",Household Products,Household and Personal Products
+486,Northern Trust,"$5,716 ","$1,199.00 ","18,100",Financials,Commercial Banks
+487,Fiserv,"$5,696 ","$1,246.00 ","24,000",Business Services,Financial Data Services
+488,Harley-Davidson,"$5,647 ",$521.80 ,"5,800",Transportation,Transportation Equipment
+489,Cheniere Energy,"$5,601 ",($393.00),"1,230",Energy,Energy
+490,Patterson,"$5,593 ",$170.90 ,"7,500",Wholesalers,Wholesalers: Health Care
+491,Peabody Energy,"$5,579 ",-,"7,100",Energy,"Mining, Crude-Oil Production"
+492,ON Semiconductor,"$5,543 ",$810.70 ,"34,000",Technology,Semiconductors and Other Electronic Components
+493,Simon Property Group,"$5,539 ","$1,948.00 ","4,150",Financials,Real estate
+494,Western Union,"$5,524 ",($557.10),"11,500",Business Services,Financial Data Services
+495,NetApp,"$5,519 ",$509.00 ,"10,100",Technology,"Computers, Office Equipment"
+496,Polaris Industries,"$5,505 ",$172.50 ,"11,000",Transportation,Transportation Equipment
+497,Pioneer Natural Resources,"$5,455 ",$833.00 ,"3,836",Energy,"Mining, Crude-Oil Production"
+498,ABM Industries,"$5,454 ",$3.80 ,"140,000",Business Services,Diversified Outsourcing Services
+499,Vistra Energy,"$5,430 ",($254.00),"4,150",Energy,Energy
+500,Cintas,"$5,429 ",$480.70 ,"42,000",Business Services,Diversified Outsourcing Services
+501,Hess,"$5,405 ","($4,074.00)","2,075",Energy,"Mining, Crude-Oil Production"
+502,Host Hotels & Resorts,"$5,387 ",$564.00 ,205,Financials,Real estate
+503,Kelly Services,"$5,374 ",$71.60 ,"7,800",Business Services,Temporary Help
+504,Genesis Healthcare,"$5,374 ",($579.00),"68,700",Health Care,Health Care: Medical Facilities
+505,Michaels Cos.,"$5,362 ",$390.50 ,"30,500",Retailing,Specialty Retailers: Other
+506,Advanced Micro Devices,"$5,329 ",$43.00 ,"8,900",Technology,Semiconductors and Other Electronic Components
+507,Zoetis,"$5,307 ",$864.00 ,"9,200",Health Care,Pharmaceuticals
+508,Williams-Sonoma,"$5,292 ",$259.50 ,"19,350",Retailing,Specialty Retailers: Other
+509,Fortune Brands Home & Security,"$5,283 ",$472.60 ,"23,870",Household Products,"Home Equipment, Furnishings"
+510,Big Lots,"$5,271 ",$189.80 ,"22,900",Retailing,Specialty Retailers: Other
+511,Robert Half International,"$5,267 ",$290.60 ,"17,200",Business Services,Temporary Help
+512,Post Holdings,"$5,226 ",$48.30 ,"11,410","Food, Beverages &  Tobacco",Food Consumer Products
+513,Hasbro,"$5,210 ",$396.60 ,"5,400",Household Products,"Toys, Sporting Goods"
+514,Hanover Insurance Group,"$5,184 ",$186.20 ,"4,600",Financials,Insurance: Property and Casualty (Stock)
+515,Navient,"$5,179 ",$292.00 ,"6,700",Financials,Diversified Financials
+516,Intuit,"$5,177 ",$971.00 ,"8,200",Technology,Computer Software
+517,Domtar,"$5,157 ",($258.00),"10,000",Materials,Forest and Paper Products
+518,Marathon Oil,"$5,153 ","($5,723.00)","2,300",Energy,"Mining, Crude-Oil Production"
+519,Cerner,"$5,142 ",$867.00 ,"26,000",Health Care,Health Care: Pharmacy and Other Services
+520,Analog Devices,"$5,108 ",$727.30 ,"15,300",Technology,Semiconductors and Other Electronic Components
+521,Telephone & Data Systems,"$5,044 ",$153.00 ,"9,900",Telecommunications,Telecommunications
+522,Essendant,"$5,037 ",($267.00),"6,400",Wholesalers,Wholesalers: Electronics and Office Equipment
+523,Sonoco Products,"$5,037 ",$175.30 ,"21,000",Materials,"Packaging, Containers"
+524,Juniper Networks,"$5,027 ",$306.20 ,"9,381",Technology,Network and Other Communications Equipment
+525,Commercial Metals,"$4,999 ",$46.30 ,"8,797",Materials,Metals
+526,CSRA,"$4,993 ",$304.00 ,"18,500",Technology,Information Technology Services
+527,Under Armour,"$4,977 ",($48.30),"11,350",Apparel,Apparel
+528,RPM International,"$4,958 ",$181.80 ,"14,318",Chemicals,Chemicals
+529,Total System Services,"$4,928 ",$586.20 ,"11,800",Business Services,Financial Data Services
+530,Levi Strauss,"$4,904 ",$281.40 ,"13,800",Apparel,Apparel
+531,Brunswick,"$4,898 ",$146.40 ,"15,116",Transportation,Transportation Equipment
+532,YRC Worldwide,"$4,891 ",($10.80),"32,000",Transportation,"Trucking, Truck Leasing"
+533,Mattel,"$4,882 ","($1,053.80)","28,000",Household Products,"Toys, Sporting Goods"
+534,FM Global,"$4,875 ",$254.10 ,"5,441",Financials,Insurance: Property and Casualty (Stock)
+535,NiSource,"$4,875 ",$128.50 ,"8,175",Energy,Utilities: Gas and Electric
+536,Caesars Entertainment,"$4,852 ",($375.00),"65,000","Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts"
+537,Electronic Arts,"$4,845 ",$967.00 ,"8,800",Technology,Entertainment
+538,Dynegy,"$4,842 ",$76.00 ,"2,489",Energy,Energy
+539,McCormick,"$4,834 ",$477.40 ,"11,700","Food, Beverages &  Tobacco",Food Consumer Products
+540,T. Rowe Price,"$4,793 ","$1,497.80 ","6,881",Financials,Securities
+541,Orbital ATK,"$4,764 ",$310.00 ,"13,900",Aerospace &  Defense,Aerospace and Defense
+542,Tutor Perini,"$4,757 ",$148.40 ,"10,061",Engineering &  Construction,"Engineering, Construction"
+543,Brookdale Senior Living,"$4,747 ",($571.40),"62,550",Health Care,Health Care: Medical Facilities
+544,Huntington Bancshares,"$4,740 ","$1,186.00 ","15,770",Financials,Commercial Banks
+545,Wayfair,"$4,721 ",($244.60),"7,751",Technology,Internet Services and Retailing
+546,Rush Enterprises,"$4,714 ",$172.10 ,"6,825",Retailing,"Automotive Retailing, Services"
+547,Xylem,"$4,707 ",$331.00 ,"16,200",Industrials,Industrial Machinery
+548,Neiman Marcus Group,"$4,706 ",($531.80),"13,700",Retailing,Specialty Retailers: Apparel
+549,Hyatt Hotels,"$4,685 ",$249.00 ,"45,000","Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts"
+550,Sprouts Farmers Market,"$4,665 ",$158.40 ,"27,000",Food &  Drug Stores,Food and Drug Stores
+551,Diebold Nixdorf,"$4,609 ",($233.10),"23,000",Technology,"Computers, Office Equipment"
+552,Roper Technologies,"$4,608 ",$971.80 ,"14,236",Technology,"Scientific,Photographic and  Control Equipment"
+553,Smart & Final Stores,"$4,571 ",($138.90),"7,570",Food &  Drug Stores,Food and Drug Stores
+554,CommScope Holding,"$4,561 ",$193.80 ,"20,000",Technology,Network and Other Communications Equipment
+555,Tapestry,"$4,488.30 ",$591.00 ,12450,Apparel,Apparel
+556,Diplomat Pharmacy,"$4,485 ",$15.50 ,"2,298",Health Care,Health Care: Pharmacy and Other Services
+557,Chipotle Mexican Grill,"$4,476 ",$176.30 ,"68,890","Hotels, Restaurants &  Leisure",Food Services
+558,Agilent Technologies,"$4,472 ",$684.00 ,"13,500",Technology,"Scientific,Photographic and  Control Equipment"
+559,Science Applications International,"$4,454 ",$179.00 ,"15,391",Technology,Information Technology Services
+560,MDU Resources Group,"$4,444 ",$281.20 ,"10,140",Energy,Energy
+561,Select Medical Holdings,"$4,444 ",$177.20 ,"36,050",Health Care,Health Care: Medical Facilities
+562,Boise Cascade,"$4,432 ",$83.00 ,"6,370",Wholesalers,Wholesalers: Diversified
+563,National General Holdings,"$4,431 ",$105.80 ,"7,570",Financials,Insurance: Property and Casualty (Stock)
+564,SCANA,"$4,407 ",($119.00),"5,228",Energy,Utilities: Gas and Electric
+565,Graphic Packaging Holding,"$4,404 ",$300.20 ,"13,000",Materials,"Packaging, Containers"
+566,Fastenal,"$4,391 ",$578.60 ,"20,565",Wholesalers,Wholesalers: Diversified
+567,Schneider National,"$4,384 ",$389.90 ,"19,600",Transportation,"Trucking, Truck Leasing"
+568,Laureate Education,"$4,378 ",$91.50 ,"54,500",Business Services,Education
+569,Beacon Roofing Supply,"$4,377 ",$100.90 ,"5,406",Wholesalers,Wholesalers: Diversified
+570,KB Home,"$4,369 ",$180.60 ,"1,915",Engineering &  Construction,Homebuilders
+571,Equinix,"$4,368 ",$233.00 ,"7,273",Financials,Real estate
+572,Terex,"$4,363 ",$128.70 ,"10,700",Industrials,Construction and Farm Machinery
+573,Crown Castle International,"$4,356 ",$444.60 ,"4,500",Financials,Real estate
+574,CACI International,"$4,355 ",$163.70 ,"18,600",Technology,Information Technology Services
+575,Watsco,"$4,342 ",$208.20 ,"5,200",Wholesalers,Wholesalers: Diversified
+576,Coca-Cola Bottling,"$4,324 ",$96.50 ,"15,500","Food, Beverages &  Tobacco",Beverages
+577,Welltower,"$4,317 ",$522.80 ,392,Financials,Real estate
+578,ADT,"$4,316 ",$342.60 ,"18,000",Business Services,Diversified Outsourcing Services
+579,Ametek,"$4,300 ",$681.50 ,"16,900",Technology,"Scientific,Photographic and  Control Equipment"
+580,CNO Financial Group,"$4,297 ",$175.60 ,"3,300",Financials,"Insurance: Life, Health (stock)"
+581,Camping World Holdings,"$4,285 ",$28.40 ,"10,227",Retailing,"Automotive Retailing, Services"
+582,LPL Financial Holdings,"$4,282 ",$238.90 ,"3,736",Financials,Securities
+583,Noble Energy,"$4,256 ","($1,118.00)","2,277",Energy,"Mining, Crude-Oil Production"
+584,Bloomin Brands,"$4,213 ",$100.20 ,"94,000","Hotels, Restaurants &  Leisure",Food Services
+585,Moodys,"$4,204 ","$1,000.60 ","11,896",Business Services,Financial Data Services
+586,Symantec,"$4,191 ",($106.00),"13,000",Technology,Computer Software
+587,Amkor Technology,"$4,187 ",$260.70 ,"29,300",Technology,Semiconductors and Other Electronic Components
+588,Skechers U.S.A.,"$4,181 ",$179.20 ,"8,150",Apparel,Apparel
+589,KBR,"$4,171 ",$434.00 ,"20,000",Engineering &  Construction,"Engineering, Construction"
+590,Tiffany,"$4,170 ",$370.10 ,"13,100",Retailing,Specialty Retailers: Other
+591,Torchmark,"$4,156 ","$1,454.50 ","3,102",Financials,"Insurance: Life, Health (stock)"
+592,Broadridge Financial Solutions,"$4,143 ",$326.80 ,"10,000",Business Services,Financial Data Services
+593,Quad/Graphics,"$4,131.40 ",$107.20 ,21100,Media,"Publishing, Printing"
+594,CF Industries Holdings,"$4,130 ",$357.70 ,"2,950",Chemicals,Chemicals
+595,Carlisle,"$4,090 ",$365.50 ,"14,800",Materials,"Building Materials, Glass"
+596,Silgan Holdings,"$4,090 ",$269.70 ,"12,515",Materials,"Packaging, Containers"
+597,Bemis,"$4,046 ",$94.00 ,"16,582",Materials,"Packaging, Containers"
+598,CA,"$4,036 ",$775.00 ,"11,800",Technology,Computer Software
+599,Hub Group,"$4,035 ",$135.20 ,"4,377",Transportation,Transportation and Logistics
+600,Worldpay,"$4,027 ",$130.10 ,"3,560",Business Services,Financial Data Services
+601,Ingles Markets,"$4,003 ",$53.90 ,"17,250",Food &  Drug Stores,Food and Drug Stores
+602,Snap-on,"$4,000 ",$557.70 ,"12,600",Industrials,Industrial Machinery
+603,Dentsply Sirona,"$3,993 ","($1,550.00)","16,100",Health Care,Medical Products and Equipment
+604,Calumet Specialty Products,"$3,992 ",($103.80),"1,600",Energy,Petroleum Refining
+605,Global Payments,"$3,975 ",$468.40 ,"10,000",Business Services,Financial Data Services
+606,Encompass Health,"$3,971.40 ",$256.30 ,30935,Health Care,Health Care: Medical Facilities
+607,Martin Marietta Materials,"$3,966 ",$713.30 ,"8,406",Materials,"Building Materials, Glass"
+608,Nasdaq,"$3,965 ",$734.00 ,"4,734",Financials,Securities
+609,Leggett & Platt,"$3,944 ",$292.60 ,"22,200",Household Products,"Home Equipment, Furnishings"
+610,Universal Forest Products,"$3,941 ",$119.50 ,"10,000",Materials,"Building Materials, Glass"
+611,Sally Beauty Holdings,"$3,938 ",$215.10 ,"21,755",Retailing,Specialty Retailers: Other
+612,Flowers Foods,"$3,921 ",$150.10 ,"9,800","Food, Beverages &  Tobacco",Food Consumer Products
+613,Barnes & Noble,"$3,895 ",$22.00 ,"18,592",Retailing,Specialty Retailers: Other
+614,American Equity Investment Life,"$3,892 ",$174.60 ,515,Financials,"Insurance: Life, Health (stock)"
+615,Vulcan Materials,"$3,890 ",$601.20 ,"8,287",Materials,"Building Materials, Glass"
+616,Taylor Morrison Home,"$3,885 ",$91.20 ,"1,800",Engineering &  Construction,Homebuilders
+617,Westinghouse Air Brake,"$3,882 ",$262.30 ,"18,000",Industrials,Industrial Machinery
+618,Crestwood Equity Partners,"$3,881 ",($191.90),954,Energy,Energy
+619,Iron Mountain,"$3,846 ",$183.80 ,"24,000",Business Services,Diversified Outsourcing Services
+620,Lennox International,"$3,840 ",$305.70 ,"11,450",Industrials,Industrial Machinery
+621,General Cable,"$3,837 ",($56.60),"8,500",Industrials,"Electronics, Electrical Equip."
+622,American Eagle Outfitters,"$3,796 ",$204.20 ,"24,100",Retailing,Specialty Retailers: Apparel
+623,Church & Dwight,"$3,776 ",$743.40 ,"4,700",Household Products,Household and Personal Products
+624,Platform Specialty Products,"$3,776 ",($296.20),"7,850",Chemicals,Chemicals
+625,JELD-WEN Holding,"$3,764 ",$10.80 ,"21,000",Materials,"Building Materials, Glass"
+626,OneMain Holdings,"$3,756 ",$183.00 ,"10,100",Financials,Diversified Financials
+627,Colfax,"$3,737 ",$151.10 ,"14,300",Industrials,Industrial Machinery
+628,Zebra Technologies,"$3,722 ",$17.00 ,"7,000",Industrials,"Electronics, Electrical Equip."
+629,Andersons,"$3,686 ",$42.50 ,"1,819","Food, Beverages &  Tobacco",Food Production
+630,TD Ameritrade Holding,"$3,685 ",$872.00 ,"10,412",Financials,Securities
+631,Carlyle Group,"$3,676 ",$244.10 ,"1,600",Financials,Securities
+632,Hubbell,"$3,669 ",$243.10 ,"17,700",Industrials,"Electronics, Electrical Equip."
+633,Trinity Industries,"$3,663 ",$702.50 ,"15,605",Transportation,Transportation Equipment
+634,Darling Ingredients,"$3,662 ",$128.50 ,"9,800","Food, Beverages &  Tobacco",Food Production
+635,Flowserve,"$3,661 ",$2.70 ,"17,000",Industrials,Industrial Machinery
+636,Antero Resources,"$3,656 ",$615.10 ,593,Energy,"Mining, Crude-Oil Production"
+637,Skyworks Solutions,"$3,651 ","$1,010.20 ","8,400",Technology,Semiconductors and Other Electronic Components
+638,Landstar System,"$3,649 ",$177.10 ,"1,273",Transportation,"Trucking, Truck Leasing"
+639,Buckeye Partners,"$3,648 ",$478.80 ,"1,870",Energy,Pipelines
+640,MRC Global,"$3,646 ",$50.00 ,"3,580",Energy,"Oil and Gas Equipment, Services"
+641,CME Group,"$3,645 ","$4,063.40 ","2,830",Financials,Securities
+642,Greif,"$3,638 ",$118.60 ,"13,000",Materials,"Packaging, Containers"
+643,Nexeo Solutions,"$3,637 ",$14.40 ,"2,640",Wholesalers,Wholesalers: Diversified
+644,Cooper-Standard Holdings,"$3,618 ",$135.30 ,"32,000",Motor Vehicles &  Parts,Motor Vehicles and Parts
+645,Urban Outfitters,"$3,616 ",$108.30 ,"16,330",Retailing,Specialty Retailers: Apparel
+646,LSC Communications,"$3,603 ",($57.00),"24,000",Media,"Publishing, Printing"
+647,Sabre,"$3,599 ",$242.50 ,"9,000",Technology,Internet Services and Retailing
+648,Green Plains,"$3,596 ",$61.10 ,"1,427",Energy,Energy
+649,Hexion,"$3,591 ",($234.00),"4,300",Chemicals,Chemicals
+650,Stericycle,"$3,581 ",$42.40 ,"23,200",Business Services,Waste Management
+651,Warner Music Group,"$3,576 ",$143.00 ,"4,520",Media,Entertainment
+652,Ventas,"$3,574 ","$1,356.50 ",493,Financials,Real estate
+653,ScanSource,"$3,568 ",$69.20 ,"2,000",Wholesalers,Wholesalers: Electronics and Office Equipment
+654,Pinnacle West Capital,"$3,565 ",$488.50 ,"6,292",Energy,Utilities: Gas and Electric
+655,Scripps Networks Interactive,"$3,562 ",$623.90 ,"3,600",Media,Entertainment
+656,Alexion Pharmaceuticals,"$3,551 ",$443.30 ,"2,525",Health Care,Pharmaceuticals
+657,Pitney Bowes,"$3,550 ",$261.30 ,"14,700",Technology,"Computers, Office Equipment"
+658,CIT Group,"$3,545 ",$468.20 ,"4,167",Financials,Commercial Banks
+659,Country Financial,"$3,542 ",$187.30 ,"3,834",Financials,Insurance: Property and Casualty (Mutual)
+660,CUNA Mutual Group,"$3,541 ",$303.20 ,"3,300",Financials,"Insurance: Life, Health (stock)"
+661,Triumph Group,"$3,533 ",($43.00),"14,309",Aerospace &  Defense,Aerospace and Defense
+662,TransDigm Group,"$3,529 ",$596.90 ,"9,200",Aerospace &  Defense,Aerospace and Defense
+663,Allegheny Technologies,"$3,525 ",($91.90),"8,600",Materials,Metals
+664,Resolute Forest Products,"$3,513 ",($84.00),"7,700",Materials,Forest and Paper Products
+665,Acuity Brands,"$3,505 ",$321.70 ,"12,500",Industrials,"Electronics, Electrical Equip."
+666,Abercrombie & Fitch,"$3,493 ",$7.10 ,"22,500",Retailing,Specialty Retailers: Apparel
+667,KLA-Tencor,"$3,480 ",$926.10 ,"5,990",Technology,Semiconductors and Other Electronic Components
+668,Weis Markets,"$3,467 ",$98.40 ,"23,000",Food &  Drug Stores,Food and Drug Stores
+669,Puget Energy,"$3,460 ",$175.20 ,"3,140",Energy,Utilities: Gas and Electric
+670,Mednax,"$3,458 ",$320.40 ,"14,000",Health Care,Health Care: Pharmacy and Other Services
+671,Kar Auction Services,"$3,458 ",$362.00 ,"15,488",Wholesalers,Wholesalers: Diversified
+672,PolyOne,"$3,452 ",($57.70),"6,400",Chemicals,Chemicals
+673,FMC,"$3,442 ",$535.80 ,"7,000",Chemicals,Chemicals
+674,Edwards Lifesciences,"$3,435 ",$583.60 ,"12,200",Health Care,Medical Products and Equipment
+675,Microchip Technology,"$3,426 ",$164.60 ,"12,656",Technology,Semiconductors and Other Electronic Components
+676,Amerco,"$3,422 ",$398.40 ,"20,376",Transportation,"Trucking, Truck Leasing"
+677,Mercury General,"$3,416 ",$144.90 ,"4,300",Financials,Insurance: Property and Casualty (Stock)
+678,American National Insurance,"$3,411 ",$493.70 ,"4,621",Financials,"Insurance: Life, Health (stock)"
+679,Carters,"$3,400 ",$302.80 ,"20,900",Apparel,Apparel
+680,International Flavors & Fragrances,"$3,399 ",$295.70 ,"7,300",Chemicals,Chemicals
+681,Aarons,"$3,384 ",$292.50 ,"11,900",Retailing,Specialty Retailers: Other
+682,Alliant Energy,"$3,382 ",$457.30 ,"3,989",Energy,Utilities: Gas and Electric
+683,EQT,"$3,378 ","$1,508.50 ","2,067",Energy,Energy
+684,Monster Beverage,"$3,369 ",$820.70 ,"2,589","Food, Beverages &  Tobacco",Beverages
+685,BMC Stock Holdings,"$3,366 ",$57.40 ,"9,100",Wholesalers,Wholesalers: Diversified
+686,Ryerson Holding,"$3,365 ",$17.10 ,"3,600",Materials,Metals
+687,Equifax,"$3,362 ",$587.30 ,"10,300",Business Services,Financial Data Services
+688,Regal Beloit,"$3,360 ",$213.00 ,"23,600",Industrials,"Electronics, Electrical Equip."
+689,Old Dominion Freight Line,"$3,358 ",$463.80 ,"19,183",Transportation,"Trucking, Truck Leasing"
+690,American Water Works,"$3,357 ",$426.00 ,"6,900",Energy,Miscellaneous
+691,BGC Partners,"$3,353 ",$51.50 ,"9,238",Financials,Securities
+692,Brinks,"$3,347 ",$16.70 ,"62,150",Business Services,Diversified Outsourcing Services
+692,Meritor,"$3,347 ",$16.70 ,"62,150",Business Services,Diversified Outsourcing Services
+694,Sentry Insurance Group,"$3,346 ",$288.50 ,"4,139",Financials,Insurance: Property and Casualty (Mutual)
+695,Sanderson Farms,"$3,342 ",$279.70 ,"14,669","Food, Beverages &  Tobacco",Food Production
+696,KapStone Paper & Packaging,"$3,316 ",$243.50 ,"6,400",Materials,"Packaging, Containers"
+697,Gartner,"$3,312 ",$3.30 ,"15,131",Technology,Information Technology Services
+698,IAC/InterActiveCorp,"$3,307.20 ",$304.90 ,7000,Technology,Internet Services and Retailing
+699,Tailored Brands,"$3,304 ",$96.70 ,"18,200",Retailing,Specialty Retailers: Apparel
+700,WABCO Holdings,"$3,304 ",$406.10 ,"14,631",Motor Vehicles &  Parts,Motor Vehicles and Parts
+701,Insperity,"$3,300 ",$84.40 ,"2,900",Business Services,Diversified Outsourcing Services
+702,Comerica,"$3,289 ",$743.00 ,"7,999",Financials,Commercial Banks
+703,TriNet Group,"$3,275 ",$178.00 ,"2,700",Business Services,Diversified Outsourcing Services
+704,Avaya Holdings,"$3,272 ",-,"8,700",Technology,Information Technology Services
+705,Ashland Global Holdings,"$3,260 ",$1.00 ,"6,500",Chemicals,Chemicals
+706,Meritage Homes,"$3,241 ",$143.30 ,"1,605",Engineering &  Construction,Homebuilders
+707,SkyWest,"$3,204 ",$428.90 ,"16,300",Transportation,Airlines
+708,USG,"$3,204 ",$88.00 ,"6,800",Materials,"Building Materials, Glass"
+709,Southwestern Energy,"$3,203 ","$1,046.00 ","1,575",Energy,"Mining, Crude-Oil Production"
+710,Keysight Technologies,"$3,189 ",$102.00 ,"12,600",Technology,"Scientific,Photographic and  Control Equipment"
+711,Regal Entertainment Group,"$3,163 ",$112.30 ,"26,047",Media,Entertainment
+712,Mutual of America Life Insurance,"$3,163 ",$26.20 ,"1,079",Financials,"Insurance: Life, Health (Mutual)"
+713,Paychex,"$3,151 ",$817.30 ,"13,700",Business Services,Diversified Outsourcing Services
+714,Brinker International,"$3,151 ",$150.80 ,"57,906","Hotels, Restaurants &  Leisure",Food Services
+715,Penn National Gaming,"$3,148 ",$473.50 ,"18,754","Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts"
+716,Gannett,"$3,147 ",$6.90 ,"19,000",Media,"Publishing, Printing"
+717,Visteon,"$3,146 ",$176.00 ,"10,000",Motor Vehicles &  Parts,Motor Vehicles and Parts
+718,Pinnacle Foods,"$3,144 ",$532.00 ,"4,900","Food, Beverages &  Tobacco",Food Consumer Products
+719,Intuitive Surgical,"$3,129 ",$660.00 ,"4,444",Health Care,Medical Products and Equipment
+720,Continental Resources,"$3,121 ",$789.40 ,"1,127",Energy,"Mining, Crude-Oil Production"
+721,Service Corp. International,"$3,095 ",$546.70 ,"19,468",Business Services,Miscellaneous
+722,Scientific Games,"$3,084 ",($242.30),"8,600","Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts"
+723,Albemarle,"$3,072 ",$54.90 ,"5,400",Chemicals,Chemicals
+724,Atmos Energy,"$3,063 ",$396.40 ,"4,565",Energy,Utilities: Gas and Electric
+725,Hologic,"$3,059 ",$755.50 ,"6,233",Health Care,Medical Products and Equipment
+726,H& R Block,"$3,036 ",$408.90 ,"44,900",Financials,Diversified Financials
+727,Qorvo,"$3,033 ",($16.60),"8,600",Technology,Semiconductors and Other Electronic Components
+728,Steelcase,"$3,032 ",$124.60 ,"12,650",Household Products,"Home Equipment, Furnishings"
+729,Univision Communications,"$3,016 ",$654.90 ,"4,500",Media,Entertainment
+730,Worthington Industries,"$3,014 ",$204.50 ,"10,000",Materials,Metals
+731,Timken,"$3,004 ",$203.40 ,"15,006",Industrials,Industrial Machinery
+732,A.O. Smith,"$2,997 ",$296.50 ,"16,100",Industrials,"Electronics, Electrical Equip."
+733,PriceSmart,"$2,997 ",$90.70 ,"7,903",Retailing,General Merchandisers
+734,Stifel Financial,"$2,997 ",$182.90 ,"7,100",Financials,Securities
+735,Brown-Forman,"$2,994 ",$669.00 ,"4,570","Food, Beverages &  Tobacco",Beverages
+736,Cinemark Holdings,"$2,992 ",$264.20 ,"19,915",Media,Entertainment
+737,Granite Construction,"$2,990 ",$69.10 ,"3,600",Engineering &  Construction,"Engineering, Construction"
+738,Dycom Industries,"$2,978 ",$151.30 ,"14,365",Engineering &  Construction,"Engineering, Construction"
+739,Clean Harbors,"$2,945 ",$100.70 ,"12,700",Business Services,Waste Management
+740,First Solar,"$2,941 ",($165.60),"4,100",Energy,Energy
+741,Scotts Miracle-Gro,"$2,936 ",$218.30 ,"4,700",Chemicals,Chemicals
+742,Cracker Barrel Old Country Store,"$2,926 ",$201.90 ,"73,000","Hotels, Restaurants &  Leisure",Food Services
+743,Triple-S Management,"$2,916 ",$54.50 ,"3,517",Health Care,Health Care: Insurance and Managed Care
+744,First Republic Bank,"$2,912 ",$757.70 ,"4,025",Financials,Commercial Banks
+745,ServiceMaster Global Holdings,"$2,912 ",$510.00 ,"13,000",Business Services,Diversified Outsourcing Services
+746,PC Connection,"$2,912 ",$54.90 ,"2,505",Retailing,Specialty Retailers: Other
+747,Genesco,"$2,907 ",($111.80),"19,350",Retailing,Specialty Retailers: Apparel
+748,Medical Mutual of Ohio,"$2,895 ",$8.10 ,"2,244",Financials,"Insurance: Life, Health (Mutual)"
+749,MSC Industrial Direct,"$2,888 ",$231.40 ,"6,563",Wholesalers,Wholesalers: Diversified
+750,Legg Mason,"$2,887 ",$227.30 ,"3,338",Financials,Securities
+751,Hyster-Yale Materials Handling,"$2,885 ",$48.60 ,"6,800",Industrials,Industrial Machinery
+752,Apollo Global Management,"$2,884 ",$629.10 ,"1,047",Financials,Securities
+753,Citrix Systems,"$2,883 ",($20.70),"7,500",Technology,Computer Software
+754,Acadia Healthcare,"$2,877 ",$199.80 ,"34,050",Health Care,Health Care: Medical Facilities
+755,Varian Medical Systems,"$2,862 ",$249.60 ,"6,600",Health Care,Medical Products and Equipment
+756,Groupon,"$2,859 ",$14.00 ,"6,672",Technology,Internet Services and Retailing
+757,Aleris,"$2,858 ",($210.60),"5,400",Materials,Metals
+758,Sprague Resources,"$2,855 ",$29.50 ,981,Wholesalers,Wholesalers: Diversified
+759,Cooper Tire & Rubber,"$2,855 ",$95.40 ,"9,204",Motor Vehicles &  Parts,Motor Vehicles and Parts
+760,Hain Celestial Group,"$2,853 ",$67.40 ,"7,825","Food, Beverages &  Tobacco",Food Consumer Products
+761,Penn Mutual Life Insurance,"$2,851 ",$594.00 ,"3,089",Financials,"Insurance: Life, Health (stock)"
+762,Colony NorthStar,"$2,842 ",($197.90),544,Financials,Real estate
+763,ArcBest,"$2,827 ",$59.70 ,"13,000",Transportation,"Trucking, Truck Leasing"
+764,Presidio,"$2,818 ",$4.40 ,"2,700",Technology,Information Technology Services
+765,TRI Pointe Group,"$2,810 ",$187.20 ,"1,251",Engineering &  Construction,Homebuilders
+766,Annaly Capital Management,"$2,809 ","$1,569.60 ",152,Financials,Diversified Financials
+767,G-III Apparel Group,"$2,807 ",$62.10 ,"9,961",Apparel,Apparel
+768,AMC Networks,"$2,806 ",$471.30 ,"2,039",Media,Entertainment
+769,Enable Midstream Partners,"$2,803 ",$436.00 ,"1,630",Energy,Pipelines
+770,Ciena,"$2,802 ","$1,262.00 ","5,737",Technology,Network and Other Communications Equipment
+771,DSW,"$2,800 ",$67.30 ,"12,000",Retailing,Specialty Retailers: Apparel
+772,Convergys,"$2,792 ",$121.40 ,"115,000",Business Services,Diversified Outsourcing Services
+773,Park Hotels & Resorts,"$2,791 ","$2,625.00 ",520,Financials,Real estate
+774,Pool,"$2,788 ",$191.60 ,"4,000",Wholesalers,Wholesalers: Diversified
+775,Fossil Group,"$2,788 ",($478.20),"12,300",Apparel,Apparel
+776,Dominos Pizza,"$2,788 ",$277.90 ,"14,200","Hotels, Restaurants &  Leisure",Food Services
+777,Crane,"$2,786 ",$171.80 ,"10,600",Industrials,Industrial Machinery
+778,Caleres,"$2,786 ",$87.20 ,"12,000",Retailing,Specialty Retailers: Apparel
+779,Tempur Sealy International,"$2,754 ",$151.40 ,"7,000",Household Products,"Home Equipment, Furnishings"
+780,Tetra Tech,"$2,753 ",$117.90 ,"16,000",Engineering &  Construction,"Engineering, Construction"
+781,Illumina,"$2,752 ",$726.00 ,"6,200",Technology,"Scientific,Photographic and  Control Equipment"
+782,Valmont Industries,"$2,746 ",$116.20 ,"10,690",Materials,Metals
+783,Hill-Rom Holdings,"$2,744 ",$133.60 ,"10,000",Health Care,Medical Products and Equipment
+784,Unisys,"$2,742 ",($65.30),"20,500",Technology,Information Technology Services
+785,Zions Bancorp.,"$2,736 ",$592.00 ,"10,083",Financials,Commercial Banks
+786,Sinclair Broadcast Group,"$2,734 ",$576.00 ,"8,900",Media,Entertainment
+787,Louisiana-Pacific,"$2,734 ",$389.80 ,"5,000",Materials,"Building Materials, Glass"
+788,Mettler-Toledo International,"$2,725 ",$376.00 ,"14,600",Technology,"Scientific,Photographic and  Control Equipment"
+789,Synopsys,"$2,725 ",$136.60 ,"11,686",Technology,Computer Software
+790,Kemper,"$2,723 ",$120.90 ,"5,550",Financials,Insurance: Property and Casualty (Stock)
+791,Cabot,"$2,717 ",$241.00 ,"4,500",Chemicals,Chemicals
+792,Great Plains Energy,"$2,708 ",($106.20),"2,709",Energy,Utilities: Gas and Electric
+793,Rent-A-Center,"$2,703 ",$6.70 ,"18,300",Retailing,Specialty Retailers: Other
+794,Hawaiian Holdings,"$2,696 ",$364.00 ,"6,660",Transportation,Airlines
+795,Revlon,"$2,694 ",($183.20),"7,800",Household Products,Household and Personal Products
+796,Syneos Health,"$2,672 ",($138.50),"21,000",Health Care,Health Care: Pharmacy and Other Services
+797,Public Storage,"$2,669 ","$1,442.20 ","5,600",Financials,Real estate
+798,TTM Technologies,"$2,659 ",$124.20 ,"29,000",Technology,Semiconductors and Other Electronic Components
+799,Vectren,"$2,657 ",$216.00 ,"5,500",Energy,Utilities: Gas and Electric
+800,Trimble,"$2,654 ",$121.10 ,"9,523",Technology,"Scientific,Photographic and  Control Equipment"
+801,NOW,"$2,648 ",($52.00),"4,463",Wholesalers,Wholesalers: Diversified
+802,Spirit Airlines,"$2,648 ",$420.60 ,"6,100",Transportation,Airlines
+803,ASGN,"$2,626 ",$157.70 ,"3,800",Business Services,Temporary Help
+804,Lincoln Electric Holdings,"$2,624 ",$247.50 ,"11,000",Industrials,Industrial Machinery
+805,Prologis,"$2,618 ","$1,652.30 ","1,565",Financials,Real estate
+806,Range Resources,"$2,611 ",$333.10 ,773,Energy,"Mining, Crude-Oil Production"
+807,Teledyne Technologies,"$2,604 ",$227.20 ,"10,340",Aerospace &  Defense,Aerospace and Defense
+808,Vishay Intertechnology,"$2,604 ",($20.30),"23,000",Technology,Semiconductors and Other Electronic Components
+809,Boston Properties,"$2,602 ",$462.40 ,740,Financials,Real estate
+810,Applied Industrial Technologies,"$2,594 ",$133.90 ,"5,554",Wholesalers,Wholesalers: Diversified
+811,Graham Holdings,"$2,592 ",$302.00 ,"16,153",Business Services,Education
+812,Amica Mutual Insurance,"$2,590 ",$96.10 ,"3,693",Financials,Insurance: Property and Casualty (Mutual)
+813,Concho Resources,"$2,586 ",$956.00 ,"1,203",Energy,"Mining, Crude-Oil Production"
+814,ITT,"$2,585 ",$113.50 ,"10,000",Industrials,Industrial Machinery
+815,Kansas City Southern,"$2,583 ",$962.00 ,"7,130",Transportation,Railroads
+816,MDC Holdings,"$2,578 ",$141.80 ,"1,491",Engineering &  Construction,Homebuilders
+817,Evergy,"$2,571 ",$323.90 ,"2,205",Energy,Utilities: Gas and Electric
+818,Pinnacle Entertainment,"$2,562 ",$63.10 ,"15,377","Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts"
+819,Hawaiian Electric Industries,"$2,556 ",$165.30 ,"3,880",Energy,Utilities: Gas and Electric
+820,TEGNA,"$2,550 ",$273.70 ,"5,283",Media,Entertainment
+821,Southwest Gas Holdings,"$2,549 ",$193.80 ,"7,771",Energy,Utilities: Gas and Electric
+822,Vista Outdoor,"$2,547 ",($274.50),"6,400",Household Products,Miscellaneous
+823,Bon-Ton Stores,"$2,541 ",($90.70),"23,300",Retailing,General Merchandisers
+824,Super Micro Computer,"$2,530 ",$69.30 ,"2,699",Technology,"Computers, Office Equipment"
+825,Plexus,"$2,528 ",$112.10 ,"16,000",Technology,Semiconductors and Other Electronic Components
+826,TrueBlue,"$2,509 ",$55.50 ,"5,500",Business Services,Temporary Help
+827,Magellan Midstream Partners,"$2,508 ",$869.50 ,"1,802",Energy,Pipelines
+828,Toro,"$2,505 ",$267.70 ,"6,779",Industrials,Construction and Farm Machinery
+829,Akamai Technologies,"$2,503 ",$218.30 ,"7,650",Technology,Internet Services and Retailing
+830,Moog,"$2,498 ",$141.30 ,"10,675",Aerospace &  Defense,Aerospace and Defense
+831,Vertex Pharmaceuticals,"$2,489 ",$263.50 ,"2,300",Health Care,Pharmaceuticals
+832,Equity Residential,"$2,471 ",$603.50 ,"2,683",Financials,Real estate
+833,Selective Insurance Group,"$2,470 ",$168.80 ,"2,260",Financials,Insurance: Property and Casualty (Stock)
+834,AptarGroup,"$2,469 ",$220.00 ,"13,200",Materials,"Packaging, Containers"
+835,Benchmark Electronics,"$2,467 ",($32.00),"10,600",Technology,Semiconductors and Other Electronic Components
+836,Columbia Sportswear,"$2,466 ",$105.10 ,"6,188",Apparel,Apparel
+837,A. Schulman,"$2,461 ",$33.00 ,"4,900",Chemicals,Chemicals
+838,Verso,"$2,461 ",($30.00),"4,200",Materials,Forest and Paper Products
+839,Digital Realty Trust,"$2,458 ",$248.30 ,"1,429",Financials,Real estate
+840,GNC Holdings,"$2,453 ",($148.90),"11,500",Food &  Drug Stores,Food and Drug Stores
+841,E*Trade Financial,"$2,452 ",$614.00 ,"3,607",Financials,Securities
+842,Hovnanian Enterprises,"$2,452 ",($332.20),"1,905",Engineering &  Construction,Homebuilders
+843,Maximus,"$2,451 ",$209.40 ,"20,400",Technology,Information Technology Services
+844,Twitter,"$2,443 ",($108.10),"3,372",Technology,Internet Services and Retailing
+845,Par Pacific Holdings,"$2,443 ",$72.60 ,905,Energy,Petroleum Refining
+846,Parexel International,"$2,442 ",$107.30 ,"18,900",Health Care,Health Care: Pharmacy and Other Services
+847,RH,"$2,440 ",$2.20 ,"4,750",Retailing,Specialty Retailers: Other
+848,Nexstar Media Group,"$2,432 ",$475.00 ,"8,737",Media,Entertainment
+849,Knight-Swift Transportation Holdings,"$2,426 ",$484.30 ,"25,300",Transportation,"Trucking, Truck Leasing"
+850,Red Hat,"$2,412 ",$253.70 ,"10,500",Technology,Computer Software
+851,Belden,"$2,389 ",$93.20 ,"8,800",Industrials,"Electronics, Electrical Equip."
+852,Boyd Gaming,"$2,384 ",$189.20 ,"19,707","Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts"
+853,Primoris Services,"$2,380 ",$72.40 ,"7,102",Engineering &  Construction,"Engineering, Construction"
+854,Gardner Denver,"$2,375 ",$18.40 ,"6,400",Industrials,Industrial Machinery
+855,Donaldson,"$2,372 ",$232.80 ,"13,200",Industrials,Industrial Machinery
+856,Party City Holdco,"$2,372 ",$215.30 ,"14,600",Retailing,Specialty Retailers: Other
+857,J.Crew Group,"$2,370 ",($125.00),"8,950",Retailing,Specialty Retailers: Apparel
+858,EnerSys,"$2,367 ",$160.20 ,"9,400",Industrials,"Electronics, Electrical Equip."
+859,Guess,"$2,364 ",($7.90),"14,700",Retailing,Specialty Retailers: Apparel
+860,Patterson-UTI Energy,"$2,357 ",$5.90 ,"8,000",Energy,"Oil and Gas Equipment, Services"
+861,WGL Holdings,"$2,355 ",$192.60 ,"1,586",Energy,Energy
+862,Wolverine World Wide,"$2,350 ",$0.30 ,"3,700",Apparel,Apparel
+863,Xilinx,"$2,349 ",$622.50 ,"3,831",Technology,Semiconductors and Other Electronic Components
+864,Vornado Realty Trust,"$2,345 ",$227.40 ,"3,989",Financials,Real estate
+865,Middleby,"$2,336 ",$298.10 ,"8,493",Industrials,Industrial Machinery
+866,MPM Holdings,"$2,331 ",$0.00 ,"5,200",Chemicals,Chemicals
+867,Cleveland-Cliffs,"$2,330.20 ",$367.00 ,2938,Energy,"Mining, Crude-Oil Production"
+868,GGP,"$2,328 ",$657.30 ,"1,700",Financials,Real estate
+869,Cypress Semiconductor,"$2,328 ",($80.90),"6,099",Technology,Semiconductors and Other Electronic Components
+870,Arch Coal,"$2,325 ",$238.50 ,"3,790",Energy,"Mining, Crude-Oil Production"
+871,GMS,"$2,319 ",$48.90 ,"4,464",Wholesalers,Wholesalers: Diversified
+872,Waters,"$2,309 ",$20.30 ,"7,000",Technology,"Scientific,Photographic and  Control Equipment"
+873,H.B. Fuller,"$2,306 ",$58.20 ,"5,965",Chemicals,Chemicals
+874,Affiliated Managers Group,"$2,305 ",$689.50 ,"4,400",Financials,Securities
+875,PerkinElmer,"$2,301 ",$292.60 ,"11,000",Technology,"Scientific,Photographic and  Control Equipment"
+876,Edgewell Personal Care,"$2,298 ",$5.70 ,"6,000",Household Products,Household and Personal Products
+877,Maxim Integrated Products,"$2,296 ",$571.60 ,"7,040",Technology,Semiconductors and Other Electronic Components
+878,Knights of Columbus,"$2,290 ",$108.10 ,926,Financials,"Insurance: Life, Health (Mutual)"
+879,IDEX,"$2,287 ",$337.30 ,"7,167",Industrials,Industrial Machinery
+880,DST Systems,"$2,284 ",$451.50 ,"14,200",Business Services,Financial Data Services
+881,Chicos FAS,"$2,282 ",$101.00 ,"12,350",Retailing,Specialty Retailers: Apparel
+882,Nu Skin Enterprises,"$2,279 ",$129.40 ,"48,700",Household Products,Household and Personal Products
+883,Herman Miller,"$2,278 ",$123.90 ,"7,478",Household Products,"Home Equipment, Furnishings"
+884,NLV Financial,"$2,275 ",$259.90 ,"1,065",Financials,"Insurance: Life, Health (stock)"
+885,Curtiss-Wright,"$2,271 ",$214.90 ,"8,600",Aerospace &  Defense,Aerospace and Defense
+886,New Jersey Resources,"$2,269 ",$132.10 ,"1,052",Energy,Energy
+887,REV Group,"$2,268 ",$31.40 ,"7,800",Motor Vehicles &  Parts,Motor Vehicles and Parts
+888,Mueller Industries,"$2,266 ",$85.60 ,"4,125",Industrials,Industrial Machinery
+889,GEO Group,"$2,263 ",$146.20 ,"18,512",Business Services,Miscellaneous
+890,Allison Transmission Holdings,"$2,262 ",$504.00 ,"2,700",Motor Vehicles &  Parts,Motor Vehicles and Parts
+891,OGE Energy,"$2,261 ",$619.00 ,"2,413",Energy,Utilities: Gas and Electric
+892,Cheesecake Factory,"$2,261 ",$157.40 ,"39,100","Hotels, Restaurants &  Leisure",Food Services
+893,PRA Health Sciences,"$2,259 ",$86.90 ,"15,800",Technology,"Scientific,Photographic and  Control Equipment"
+894,Tupperware Brands,"$2,255.80 ",($265.40),12000,Household Products,Household and Personal Products
+895,Euronet Worldwide,"$2,252 ",$156.80 ,"6,600",Business Services,Financial Data Services
+896,FLEETCOR Technologies,"$2,250 ",$740.20 ,"7,890",Business Services,Financial Data Services
+897,Nationstar Mortgage Holdings,"$2,247 ",$30.00 ,"7,600",Financials,Diversified Financials
+898,GoDaddy,"$2,232 ",$136.40 ,"5,990",Technology,Internet Services and Retailing
+899,Blackhawk Network Holdings,"$2,232 ",($155.80),"3,190",Business Services,Financial Data Services
+900,Cboe Global Markets,"$2,229 ",$401.70 ,889,Financials,Securities
+901,Snyders-Lance,"$2,227 ",$148.50 ,"5,900","Food, Beverages &  Tobacco",Food Consumer Products
+902,Murphy Oil,"$2,226 ",($311.80),"1,128",Energy,"Mining, Crude-Oil Production"
+903,CDK Global,"$2,220 ",$295.60 ,"8,900",Technology,Computer Software
+904,Texas Roadhouse,"$2,220 ",$131.50 ,"29,524","Hotels, Restaurants &  Leisure",Food Services
+905,Kirby,"$2,214 ",$313.20 ,"5,775",Transportation,Shipping
+906,Square,"$2,214 ",($62.80),"2,338",Business Services,Financial Data Services
+907,Genesee & Wyoming,"$2,208 ",$549.10 ,"8,000",Transportation,Railroads
+908,Zayo Group Holdings,"$2,200 ",$85.70 ,"3,794",Telecommunications,Telecommunications
+909,NewMarket,"$2,198 ",$190.50 ,"2,223",Chemicals,Chemicals
+910,99 Cents Only Stores,"$2,194 ",($90.30),"17,200",Retailing,Specialty Retailers: Other
+911,PCM,"$2,193 ",$3.10 ,"4,118",Wholesalers,Wholesalers: Electronics and Office Equipment
+912,Federated Mutual Insurance,"$2,181 ",$217.60 ,"2,388",Financials,Insurance: Property and Casualty (Mutual)
+913,HNI,"$2,176 ",$89.80 ,"9,350",Household Products,"Home Equipment, Furnishings"
+914,Hospitality Properties Trust,"$2,172 ",$215.10 ,450,Financials,Real estate
+915,Greenbrier Cos.,"$2,169 ",$116.10 ,"11,917",Transportation,Transportation Equipment
+916,Bio-Rad Laboratories,"$2,160 ",$122.20 ,"8,150",Health Care,"Scientific,Photographic and  Control Equipment"
+917,AvalonBay Communities,"$2,159 ",$876.90 ,"3,123",Financials,Real estate
+918,Renewable Energy Group,"$2,158 ",($79.10),853,Energy,Energy
+919,Atlas Air Worldwide Holdings,"$2,157 ",$223.50 ,"2,870",Transportation,Transportation and Logistics
+920,Teradata,"$2,156 ",($67.00),"10,615",Technology,Information Technology Services
+921,LCI Industries,"$2,148 ",$132.90 ,"9,852",Motor Vehicles &  Parts,Motor Vehicles and Parts
+922,Teleflex,"$2,146 ",$152.50 ,"14,400",Health Care,Medical Products and Equipment
+923,Verisk Analytics,"$2,145 ",$555.10 ,"7,192",Business Services,Financial Data Services
+924,Popular,"$2,145 ",$107.70 ,"7,784",Financials,Commercial Banks
+925,Workday,"$2,143 ",($321.20),"8,200",Technology,Computer Software
+926,Cooper Cos.,"$2,139 ",$372.90 ,"11,800",Health Care,Medical Products and Equipment
+927,Express,"$2,138 ",$19.40 ,"9,576",Retailing,Specialty Retailers: Apparel
+928,Teradyne,"$2,137 ",$257.70 ,"4,500",Technology,Semiconductors and Other Electronic Components
+929,Werner Enterprises,"$2,117 ",$202.90 ,"12,154",Transportation,"Trucking, Truck Leasing"
+930,Oaktree Capital Group,"$2,100 ",$231.50 ,930,Financials,Securities
+931,Woodward,"$2,099 ",$200.50 ,"6,829",Aerospace &  Defense,Aerospace and Defense
+932,F5 Networks,"$2,090 ",$420.80 ,"4,366",Technology,Network and Other Communications Equipment
+933,Valvoline,"$2,084 ",$304.00 ,"5,600",Chemicals,Chemicals
+934,Roadrunner Transportation Systems,"$2,082 ",($106.70),"4,645",Transportation,"Trucking, Truck Leasing"
+935,SemGroup,"$2,082 ",($17.20),"1,220",Energy,Pipelines
+936,Catalent,"$2,075 ",$109.80 ,"10,800",Health Care,Pharmaceuticals
+937,Quorum Health,"$2,072 ",($114.20),"11,250",Health Care,Health Care: Medical Facilities
+938,Universal,"$2,071 ",$106.30 ,"24,000","Food, Beverages &  Tobacco",Tobacco
+939,Nordson,"$2,067 ",$295.80 ,"7,532",Industrials,Industrial Machinery
+940,ResMed,"$2,067 ",$342.30 ,"6,080",Health Care,Medical Products and Equipment
+941,Tower International,"$2,066 ",$47.60 ,"7,600",Motor Vehicles &  Parts,Motor Vehicles and Parts
+942,Freds,"$2,064 ",($140.30),"7,324",Food &  Drug Stores,Food and Drug Stores
+943,Foundation Building Materials,"$2,061 ",$82.50 ,"3,782",Wholesalers,Wholesalers: Diversified
+944,Kennametal,"$2,058 ",$49.10 ,"10,744",Industrials,Industrial Machinery
+945,Autodesk,"$2,057 ",($566.90),"8,800",Technology,Computer Software
+946,Ply Gem Holdings,"$2,056 ",$68.30 ,"9,471",Materials,"Building Materials, Glass"
+947,Central Garden & Pet,"$2,055 ",$78.80 ,"4,050",Household Products,Household and Personal Products
+948,Matson,"$2,047 ",$232.00 ,"1,947",Transportation,Shipping
+949,EchoStar,"$2,039 ",$392.60 ,"2,100",Technology,Network and Other Communications Equipment
+950,Genesis Energy,"$2,028 ",$82.60 ,"2,100",Energy,Pipelines
+951,SVB Financial Group,"$2,022 ",$490.50 ,"2,438",Financials,Commercial Banks
+952,Itron,"$2,018 ",$57.30 ,"7,150",Industrials,"Electronics, Electrical Equip."
+953,Portland General Electric,"$2,009 ",$187.00 ,"2,906",Energy,Utilities: Gas and Electric
+954,California Resources,"$2,006 ",($266.00),"1,450",Energy,"Mining, Crude-Oil Production"
+955,Esterline Technologies,"$2,005 ",$111.60 ,"13,255",Aerospace &  Defense,Aerospace and Defense
+956,Delta Tucker Holdings,"$2,004 ",$30.60 ,"8,800",Aerospace &  Defense,Aerospace and Defense
+957,AMN Healthcare Services,"$1,989 ",$132.60 ,"2,980",Health Care,Health Care: Pharmacy and Other Services
+958,Griffon,"$1,986 ",$14.90 ,"4,700",Materials,"Building Materials, Glass"
+959,Valhi,"$1,980 ",$207.50 ,"2,790",Chemicals,Chemicals
+960,Hexcel,"$1,973 ",$284.00 ,"6,259",Aerospace &  Defense,Aerospace and Defense
+961,IDEXX Laboratories,"$1,969 ",$263.10 ,"7,600",Health Care,Medical Products and Equipment
+962,Deluxe,"$1,966 ",$230.20 ,"5,886",Media,"Publishing, Printing"
+963,M/I Homes,"$1,962.00 ",$72.10 ,1238,Engineering &  Construction,Homebuilders
+964,Kraton,"$1,960 ",$97.50 ,"1,931",Chemicals,Chemicals
+965,Stewart Information Services,"$1,956 ",$48.70 ,"5,960",Financials,Insurance: Property and Casualty (Stock)
+966,Marriott Vacations Worldwide,"$1,952 ",$226.80 ,"11,000","Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts"
+967,SPX FLOW,"$1,952 ",$46.40 ,"7,000",Industrials,Industrial Machinery
+968,ACCO Brands,"$1,949 ",$131.70 ,"6,620",Household Products,"Home Equipment, Furnishings"
+969,Echo Global Logistics,"$1,943 ",$12.60 ,"2,453",Transportation,Transportation and Logistics
+970,Cadence Design Systems,"$1,943 ",$204.10 ,"7,214",Technology,Computer Software
+971,Nuance Communications,"$1,939 ",($151.00),"11,600",Technology,Computer Software
+972,Finish Line,"$1,934 ",($18.20),"8,200",Retailing,Specialty Retailers: Apparel
+973,TransUnion,"$1,934 ",$441.20 ,"5,100",Business Services,Financial Data Services
+974,ServiceNow,"$1,933 ",($149.10),"6,222",Technology,Computer Software
+975,Summit Materials,"$1,933 ",$121.80 ,"6,000",Materials,"Building Materials, Glass"
+976,Engility Holdings,"$1,932 ",($35.20),"8,700",Aerospace &  Defense,Aerospace and Defense
+977,Ferrellgas Partners,"$1,930 ",($54.20),"3,891",Energy,Energy
+978,Interactive Brokers Group,"$1,927 ",$76.00 ,"1,228",Financials,Securities
+979,Stepan,"$1,925 ",$91.60 ,"2,096",Chemicals,Chemicals
+980,Oceaneering International,"$1,922 ",$166.40 ,"8,200",Energy,"Oil and Gas Equipment, Services"
+981,Cimarex Energy,"$1,918 ",$494.30 ,910,Energy,"Mining, Crude-Oil Production"
+982,Rexnord,"$1,918 ",$74.10 ,"8,000",Industrials,Industrial Machinery
+983,Beazer Homes USA,"$1,916 ",$31.80 ,"1,100",Engineering &  Construction,Homebuilders
+984,MKS Instruments,"$1,916 ",$339.10 ,"4,923",Technology,Semiconductors and Other Electronic Components
+985,Vail Resorts,"$1,907 ",$210.60 ,"20,150","Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts"
+986,Ohio National Mutual,"$1,907 ",$25.90 ,"1,300",Financials,"Insurance: Life, Health (stock)"
+987,TopBuild,"$1,906 ",$158.10 ,"8,400",Engineering &  Construction,"Engineering, Construction"
+988,Brown & Brown,"$1,881 ",$399.60 ,"8,491",Financials,Insurance: Property and Casualty (Stock)
+989,Aerojet Rocketdyne Holdings,"$1,877 ",($9.20),"5,157",Aerospace &  Defense,Aerospace and Defense
+990,Barnes & Noble Education,"$1,874 ",$5.40 ,"13,375",Retailing,Specialty Retailers: Other
+991,Superior Energy Services,"$1,874 ",($205.90),"6,400",Energy,"Oil and Gas Equipment, Services"
+992,VeriFone Systems,"$1,871 ",($173.80),"5,600",Technology,Financial Data Services
+993,Childrens Place,"$1,870 ",$84.70 ,"9,800",Retailing,Specialty Retailers: Apparel
+994,Tribune Media,"$1,867 ",$194.10 ,"6,000",Media,Entertainment
+995,Healthcare Services Group,"$1,866 ",$88.20 ,"55,000",Health Care,Health Care: Pharmacy and Other Services
+996,SiteOne Landscape Supply,"$1,862 ",$54.60 ,"3,664",Wholesalers,Wholesalers: Diversified
+997,Charles River Laboratories Intl,"$1,858 ",$123.40 ,"11,800",Health Care,Health Care: Pharmacy and Other Services
+998,CoreLogic,"$1,851 ",$152.20 ,"5,900",Business Services,Financial Data Services
+999,Ensign Group,"$1,849 ",$40.50 ,"21,301",Health Care,Health Care: Medical Facilities
+1000,HCP,"$1,848 ",$414.20 ,190,Financials,Real estate
